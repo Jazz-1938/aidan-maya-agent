@@ -1,0 +1,72 @@
+{
+ "Agent orchestration and runtime": {
+  "stream": "aidan",
+  "last_seen": "2026-05-28",
+  "seen_dates": [
+   "2026-05-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Agyn + policy-layer show production-ready patterns for stateful multi-agent systems; AIDAN roadmap needs this"
+  ]
+ },
+ "Safety and alignment in LLM agents": {
+  "stream": "maya",
+  "last_seen": "2026-05-28",
+  "seen_dates": [
+   "2026-05-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Brittle safety, privacy leaks, confidence calibration — mental-health companion must address before scaling"
+  ]
+ },
+ "Multi-agent skill learning": {
+  "stream": "aidan",
+  "last_seen": "2026-05-28",
+  "seen_dates": [
+   "2026-05-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "SkillGrad + SkillC show gradient-based skill optimization; relevant for Revit AI and BIM automation skills"
+  ]
+ },
+ "User privacy in social systems": {
+  "stream": "maya",
+  "last_seen": "2026-05-28",
+  "seen_dates": [
+   "2026-05-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Multi-user/community features require privacy-by-design; Got a Secret study proves risk is real"
+  ]
+ },
+ "Evidence grounding and citation verification": {
+  "stream": "maya",
+  "last_seen": "2026-05-28",
+  "seen_dates": [
+   "2026-05-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "DeepSciVerify relevant if MAYA uses research-backed claims for credibility"
+  ]
+ }
+}
