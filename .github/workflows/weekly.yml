@@ -1,0 +1,40 @@
+name: weekly-strategic-analysis
+
+on:
+  schedule:
+    - cron: "0 7 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run agent (weekly)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --mode weekly
+
+      - name: Commit updated state
+        run: |
+          git config user.name "intelligence-agent"
+          git config user.email "actions@github.com"
+          git add trend_memory.json
+          if git diff --staged --quiet; then
+            echo "No state change to commit."
+          else
+            git commit -m "Weekly trend prune [skip ci]"
+            git push
+          fi
