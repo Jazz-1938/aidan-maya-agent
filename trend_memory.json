@@ -68,5 +68,103 @@
   "notes": [
    "DeepSciVerify relevant if MAYA uses research-backed claims for credibility"
   ]
+ },
+ "MCP scalability & service routing": {
+  "stream": "aidan",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Indexing + CoHyDE + tool-retrieval convergence; critical for agent orchestration"
+  ]
+ },
+ "Agent technical debt & governance": {
+  "stream": "aidan",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Early warning for multi-component systems (Revit AI, orchestration); track governance patterns"
+  ]
+ },
+ "Cheap capable models (dense reasoning)": {
+  "stream": "aidan",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DenseSteer, Qwen family; cost-reduction path away from Gemini API"
+  ]
+ },
+ "Agentic FEA & CAD automation": {
+  "stream": "aidan",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "VFEAgent precedent; multimodal agent patterns for BIM/clash detection"
+  ]
+ },
+ "User habituation & re-engagement": {
+  "stream": "maya",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Adopting≠Adapting; mindfulness app needs progressive challenge to prevent stagnation"
+  ]
+ },
+ "Tone & emotional adaptation in companions": {
+  "stream": "maya",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Mind Your Tone; MAYA safety/effectiveness depends on tone matching user state"
+  ]
+ },
+ "Safety in AI companions (mental health adjacent)": {
+  "stream": "maya",
+  "last_seen": "2026-05-29",
+  "seen_dates": [
+   "2026-05-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Clinical Trials review; must ensure MAYA positioned as support, not replacement"
+  ]
  }
 }
