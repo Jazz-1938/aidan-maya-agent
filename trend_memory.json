@@ -166,5 +166,33 @@
   "notes": [
    "Clinical Trials review; must ensure MAYA positioned as support, not replacement"
   ]
+ },
+ "LLM inference optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-05-30",
+  "seen_dates": [
+   "2026-05-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DynoSim removes manual tuning bottleneck for local models—critical for cost reduction"
+  ]
+ },
+ "LLM-assisted code generation": {
+  "stream": "aidan",
+  "last_seen": "2026-05-30",
+  "seen_dates": [
+   "2026-05-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Relevant for Revit AI scaling, but not immediate priority"
+  ]
  }
 }
