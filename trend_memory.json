@@ -194,5 +194,75 @@
   "notes": [
    "Relevant for Revit AI scaling, but not immediate priority"
   ]
+ },
+ "Agentic AI safety in multi-step reasoning": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "COMPASS framework shows how harmful intents mask as innocuous steps — critical for mental-health companion safety"
+  ]
+ },
+ "CDE integration with agentic automation": {
+  "stream": "aidan",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Procore CDE signals market move toward agent-executable data environments; AIDAN must map inference → action"
+  ]
+ },
+ "Expert knowledge distillation for agents": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "COLLEAGUE.SKILL enables teacher expertise extraction; relevant for MAYA teacher-training roadmap"
+  ]
+ },
+ "Privacy-preserving LLM audit": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LLM-FACETS shows local, user-privacy-first evaluation; critical for mental-health data handling"
+  ]
+ },
+ "Pluralistic alignment via personas": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Persona-based evaluation helps ensure safety/quality across cultural, demographic, psychiatric-profile variance"
+  ]
  }
 }
