@@ -264,5 +264,89 @@
   "notes": [
    "Persona-based evaluation helps ensure safety/quality across cultural, demographic, psychiatric-profile variance"
   ]
+ },
+ "Agent Logic & Orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "IBM research confirms that enterprise AI depends on agent architecture, not model size. Validates AIDAN's MCP + orchestration roadmap as strategic priority."
+  ]
+ },
+ "Open/Efficient Models (MoE)": {
+  "stream": "aidan",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Mellum2 by JetBrains offers 12B MoE for self-hosting. Cost/latency advantage for IFC analysis and Revit AI."
+  ]
+ },
+ "Data Poisoning in RAG": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Proof of concept: embedded RAG systems vulnerable to subtle injection of malicious knowledge. Critical for health-adjacent companions."
+  ]
+ },
+ "Counterfactual Testing for Clinical AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CSS method reveals when AI ignores input changes. Essential for MAYA's behavioral adaptation in mental health context."
+  ]
+ },
+ "Multilingual Embeddings for Healthcare": {
+  "stream": "maya",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Generic embeddings fail for medical search in non-English. MAYA needs Russian-specific fine-tuning for mindfulness search/memory."
+  ]
+ },
+ "VLM 3D Capabilities": {
+  "stream": "aidan",
+  "last_seen": "2026-06-01",
+  "seen_dates": [
+   "2026-06-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "VLMs learning native 3D without special architecture. Relevant for future scan-to-BIM roadmap, not immediate."
+  ]
  }
 }
