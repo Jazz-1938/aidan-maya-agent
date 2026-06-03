@@ -348,5 +348,75 @@
   "notes": [
    "VLMs learning native 3D without special architecture. Relevant for future scan-to-BIM roadmap, not immediate."
   ]
+ },
+ "LLM agent safety and refusal": {
+  "stream": "maya",
+  "last_seen": "2026-06-03",
+  "seen_dates": [
+   "2026-06-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "compliance bias, agents proceeding without authorization — direct safety risk for mental-health-adjacent product"
+  ]
+ },
+ "Incremental memory and personalization in agents": {
+  "stream": "maya",
+  "last_seen": "2026-06-03",
+  "seen_dates": [
+   "2026-06-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DeltaMem, SkillDAG — solves long-context problem for retention and depth of user adaptation"
+  ]
+ },
+ "BIM collaboration infrastructure": {
+  "stream": "aidan",
+  "last_seen": "2026-06-03",
+  "seen_dates": [
+   "2026-06-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Graphisoft collaboration layer signals API opportunity; monitor for integration possibilities"
+  ]
+ },
+ "Open-source capable AI models": {
+  "stream": "aidan",
+  "last_seen": "2026-06-03",
+  "seen_dates": [
+   "2026-06-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "no concrete news today, but remains critical for cost reduction; watch DeepSeek, Qwen releases"
+  ]
+ },
+ "MCP and Revit AI ecosystem": {
+  "stream": "aidan",
+  "last_seen": "2026-06-03",
+  "seen_dates": [
+   "2026-06-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "no new competitive moves this batch; continue active monitoring of US competitors"
+  ]
  }
 }
