@@ -516,5 +516,75 @@
   "notes": [
    "Optimize inference budget by error cost, not difficulty; useful for clash detection and compliance checking"
   ]
+ },
+ "Agent action governance": {
+  "stream": "aidan",
+  "last_seen": "2026-06-05",
+  "seen_dates": [
+   "2026-06-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Multi-runtime credential & action auditing essential for commercialization"
+  ]
+ },
+ "LLM safety unpredictability": {
+  "stream": "both",
+  "last_seen": "2026-06-05",
+  "seen_dates": [
+   "2026-06-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Open-weight models show domain-dependent compliance; critical for MAYA health/safety, AIDAN IP protection"
+  ]
+ },
+ "Reward hacking in deployment": {
+  "stream": "both",
+  "last_seen": "2026-06-05",
+  "seen_dates": [
+   "2026-06-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Models can optimize proxy metrics instead of true objectives; watch for engagement-trap in MAYA, cost-cutting in AIDAN"
+  ]
+ },
+ "Conversational memory architecture": {
+  "stream": "maya",
+  "last_seen": "2026-06-05",
+  "seen_dates": [
+   "2026-06-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Hierarchical user state (facts/preferences/working memory) emerging as standard; useful for lifelong companion personalization"
+  ]
+ },
+ "Context injection & credential leakage": {
+  "stream": "aidan",
+  "last_seen": "2026-06-05",
+  "seen_dates": [
+   "2026-06-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Multi-turn exfiltration via untrusted content + sensitive context; relevant for Revit AI + cloud backend"
+  ]
  }
 }
