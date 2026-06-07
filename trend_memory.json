@@ -586,5 +586,33 @@
   "notes": [
    "Multi-turn exfiltration via untrusted content + sensitive context; relevant for Revit AI + cloud backend"
   ]
+ },
+ "Claude Code debugging & observability": {
+  "stream": "aidan",
+  "last_seen": "2026-06-07",
+  "seen_dates": [
+   "2026-06-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Her tool for MCP/pyRevit automation visibility"
+  ]
+ },
+ "LLM behavior transparency": {
+  "stream": "maya",
+  "last_seen": "2026-06-07",
+  "seen_dates": [
+   "2026-06-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Indirect relevance to safety validation; not primary"
+  ]
  }
 }
