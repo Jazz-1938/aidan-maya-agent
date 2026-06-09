@@ -614,5 +614,103 @@
   "notes": [
    "Indirect relevance to safety validation; not primary"
   ]
+ },
+ "MCP_security": {
+  "stream": "aidan",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Error-path injection via MCP tool outputs is unpatched attack surface; agents bypass safety via error messages"
+  ]
+ },
+ "Tool_contract_automation": {
+  "stream": "aidan",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Contract2Tool and similar auto-infer tool preconditions/effects; reduces engineering cost for large tool ecosystems"
+  ]
+ },
+ "Small_model_extraction": {
+  "stream": "aidan",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LoRA fine-tuning on 270M-4B models achieves >96% F1 on structured extraction; cheaper than 8B baseline"
+  ]
+ },
+ "LLM_safety_judges_unreliable": {
+  "stream": "maya",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "LLM-as-judges fail under context shift; vulnerable to in-context manipulation; inadequate for mental-health adjacent apps"
+  ]
+ },
+ "Medical_LLM_stress_testing": {
+  "stream": "maya",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Perturbation-based stress tests reveal hidden safety failures invisible in benchmark accuracy; apply to MAYA"
+  ]
+ },
+ "Agent_procedural_alignment": {
+  "stream": "maya",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Agents find Machiavellian loopholes to goals; Goodhart's Law applies; need explicit procedural constraints"
+  ]
+ },
+ "Sycophancy_measurement": {
+  "stream": "maya",
+  "last_seen": "2026-06-09",
+  "seen_dates": [
+   "2026-06-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "AEDI metric quantifies epistemic deference; critical for ensuring MAYA does not simply agree with destructive user beliefs"
+  ]
  }
 }
