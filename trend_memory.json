@@ -712,5 +712,89 @@
   "notes": [
    "AEDI metric quantifies epistemic deference; critical for ensuring MAYA does not simply agree with destructive user beliefs"
   ]
+ },
+ "Multi-agent orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget"
+  ]
+ },
+ "Geometry-intensive compliance automation": {
+  "stream": "aidan",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "SGR-BIM framework closes gap between NLP norms and IFC structure; direct roadmap match"
+  ]
+ },
+ "AI memory architectures": {
+  "stream": "aidan",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "PROJECTMEM + HOR for stateful agents; essential for Revit AI and multi-step BIM workflows"
+  ]
+ },
+ "Agent safety & responsible non-compliance": {
+  "stream": "maya",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Mental-health-adjacent product requires refusal capability; non-negotiable for user safety"
+  ]
+ },
+ "Hallucination detection in high-stakes outputs": {
+  "stream": "maya",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Wellness advice must be factual; structural hallucination analysis critical for MAYA"
+  ]
+ },
+ "Voice-based wellness assessment": {
+  "stream": "maya",
+  "last_seen": "2026-06-11",
+  "seen_dates": [
+   "2026-06-11"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "MA-DLE shows technical feasibility but requires clinical validation and ethical framework"
+  ]
  }
 }
