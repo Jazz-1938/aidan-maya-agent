@@ -796,5 +796,47 @@
   "notes": [
    "MA-DLE shows technical feasibility but requires clinical validation and ethical framework"
   ]
+ },
+ "MiniMax M3 long-context models": {
+  "stream": "aidan",
+  "last_seen": "2026-06-13",
+  "seen_dates": [
+   "2026-06-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Потенциальная замена Google Gemini API; долгоконтекст критичен для IFC-моделей"
+  ]
+ },
+ "Agentic AI benchmarks": {
+  "stream": "aidan",
+  "last_seen": "2026-06-13",
+  "seen_dates": [
+   "2026-06-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "NVIDIA стандарт для оценки code-generation; важно для Revit-AI и orchestration"
+  ]
+ },
+ "Open model evaluation tools": {
+  "stream": "aidan",
+  "last_seen": "2026-06-13",
+  "seen_dates": [
+   "2026-06-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "OLMo-eval для сравнения DeepSeek/Qwen/open-source альтернатив"
+  ]
  }
 }
