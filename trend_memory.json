@@ -838,5 +838,75 @@
   "notes": [
    "OLMo-eval для сравнения DeepSeek/Qwen/open-source альтернатив"
   ]
+ },
+ "Agent memory and personalization": {
+  "stream": "maya",
+  "last_seen": "2026-06-15",
+  "seen_dates": [
+   "2026-06-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "StreamMemBench показывает, что долгая память и future-oriented assistance — критичны для retention"
+  ]
+ },
+ "Agentic safety and risk-aware gating": {
+  "stream": "maya",
+  "last_seen": "2026-06-15",
+  "seen_dates": [
+   "2026-06-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "RACG и related work подчёркивают необходимость causal risk assessment перед действием в health-adjacent domain"
+  ]
+ },
+ "Communication policy and proactive engagement": {
+  "stream": "maya",
+  "last_seen": "2026-06-15",
+  "seen_dates": [
+   "2026-06-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Communication Policy Evolution фреймворк ценен для Telegram UX и уведомлений"
+  ]
+ },
+ "Privacy-aware local sanitization": {
+  "stream": "maya",
+  "last_seen": "2026-06-15",
+  "seen_dates": [
+   "2026-06-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Minim подход актуален если MAYA расширится на веб/voice интерфейсы"
+  ]
+ },
+ "BIM-specific agent orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-06-15",
+  "seen_dates": [
+   "2026-06-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Общие LLM-agent фреймворки (HarnessX, GitOfThoughts) интересны инженерно, но не заменяют нужду в IFC-aware инструментах"
+  ]
  }
 }
