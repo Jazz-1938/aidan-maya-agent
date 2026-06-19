@@ -1090,5 +1090,89 @@
   "notes": [
    "Continuous audio thinking & EMORSION research; MAYA currently text-only; voice + emotional tone could deepen companionship (later roadmap)"
   ]
+ },
+ "Agentic AI governance & deontic policies": {
+  "stream": "aidan",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Critical for production Revit AI agent safety; need runtime constraints framework"
+  ]
+ },
+ "MCP agent evaluation in production": {
+  "stream": "aidan",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Practical methodology for validating AIDAN agent before commercial deployment"
+  ]
+ },
+ "LLM safety & alignment for wellbeing products": {
+  "stream": "maya",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Emergent alignment + epistemic blind spots detection are table-stakes for mental-health-adjacent companion"
+  ]
+ },
+ "Uncertainty & confidence estimation in API-only LLMs": {
+  "stream": "aidan",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Relevant for Gemini-based AIDAN assistant reliability"
+  ]
+ },
+ "Epistemic uncertainty in conversational AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Core for honest mindfulness companion; must decline out-of-scope mental-health queries"
+  ]
+ },
+ "Agentic RAG with complex data dependencies": {
+  "stream": "aidan",
+  "last_seen": "2026-06-19",
+  "seen_dates": [
+   "2026-06-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Cross-document reasoning applicable to BIM multi-document workflows"
+  ]
  }
 }
