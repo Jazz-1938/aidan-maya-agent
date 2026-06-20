@@ -1174,5 +1174,89 @@
   "notes": [
    "Cross-document reasoning applicable to BIM multi-document workflows"
   ]
+ },
+ "Open/cheap LLM models (DeepSeek, Qwen)": {
+  "stream": "aidan",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "DeepSeek-V4 solves cost + context bottleneck; test immediately vs Gemini API"
+  ]
+ },
+ "Multi-agent orchestration & control layers": {
+  "stream": "aidan",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AIDAN, RACL, LedgerAgent show patterns for coordinating specialist agents; applicable to clash + code + automation layers"
+  ]
+ },
+ "IFC editing/modification benchmarks": {
+  "stream": "aidan",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "BIM-Edit provides real test cases for AI-native model editing; validates your roadmap gap"
+  ]
+ },
+ "LLM safety for mental-health contexts": {
+  "stream": "maya",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Mixed-compliance & hallucination risks are direct user-harm vectors; mandatory audit before scaling"
+  ]
+ },
+ "Hallucination detection in factual domains": {
+  "stream": "maya",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Health claims require grounding checks; integrate before health-claim features"
+  ]
+ },
+ "Adaptive personalization in companion AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-20",
+  "seen_dates": [
+   "2026-06-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Tutoring research shows pedagogy; mindful-AI teacher training may benefit from adaptive prompting patterns"
+  ]
  }
 }
