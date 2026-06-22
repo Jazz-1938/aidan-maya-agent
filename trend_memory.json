@@ -1258,5 +1258,49 @@
   "notes": [
    "Tutoring research shows pedagogy; mindful-AI teacher training may benefit from adaptive prompting patterns"
   ]
+ },
+ "Open-source OCR models": {
+  "stream": "aidan",
+  "last_seen": "2026-06-22",
+  "seen_dates": [
+   "2026-06-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "PP-OCRv6 на HF — легкий, многоязычный, для scan-to-BIM. Протестировать ASAP."
+  ]
+ },
+ "AI code security": {
+  "stream": "maya",
+  "last_seen": "2026-06-22",
+  "seen_dates": [
+   "2026-06-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ",
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Daybreak/Codex Security — обязателен перед commercial launch. Риск инвестиций.",
+   "Психологические данные пользователя требуют аудита. Daybreak помогает."
+  ]
+ },
+ "Enterprise AI deployment": {
+  "stream": "both",
+  "last_seen": "2026-06-22",
+  "seen_dates": [
+   "2026-06-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Samsung case — валидация рынка для внутриорганизационных AI помощников."
+  ]
  }
 }
