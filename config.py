@@ -21,7 +21,7 @@ MAX_ITEMS_PER_RUN = 45       # hard cap on items sent to the model (cost control
 # ---- feeds ----
 FEEDS = [
     # ===== AI: primary / official (both streams) =====
-    ("Anthropic News",         "https://www.anthropic.com/news/rss.xml",             "both",  1),
+    # Anthropic removed their RSS feed (returns 404). Check manually: anthropic.com/news
     ("OpenAI News",            "https://openai.com/news/rss.xml",                    "both",  1),
     ("Google DeepMind Blog",   "https://deepmind.google/blog/rss.xml",               "both",  1),
     ("Hugging Face Blog",      "https://huggingface.co/blog/feed.xml",               "both",  1),
@@ -43,7 +43,7 @@ FEEDS = [
 
     # ===== MAYA: psychology / wellbeing / cognitive science =====
     ("APA Press Releases",     "https://www.apa.org/news/press/releases/rss.xml",    "maya",  1),
-    ("Greater Good (Berkeley)","https://greatergood.berkeley.edu/feeds/articles.rss","maya",  2),
+    ("Greater Good (Berkeley)","https://greatergood.berkeley.edu/site/rss/articles", "maya",  2),
 ]
 
 # REGIONAL_NOTE:
