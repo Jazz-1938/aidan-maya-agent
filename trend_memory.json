@@ -1302,5 +1302,47 @@
   "notes": [
    "Samsung case — валидация рынка для внутриорганизационных AI помощников."
   ]
+ },
+ "Agent frameworks": {
+  "stream": "aidan",
+  "last_seen": "2026-06-23",
+  "seen_dates": [
+   "2026-06-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CUGA практический инструмент для orchestration layer; budget-friendly"
+  ]
+ },
+ "Conversational AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-23",
+  "seen_dates": [
+   "2026-06-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CUGA фреймворк для расширения companion на новые каналы; memory/personalization"
+  ]
+ },
+ "AI-native UX": {
+  "stream": "both",
+  "last_seen": "2026-06-23",
+  "seen_dates": [
+   "2026-06-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Omio case study — lessons о adoption и safety в conversational products"
+  ]
  }
 }
