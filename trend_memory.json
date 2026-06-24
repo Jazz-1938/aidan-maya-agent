@@ -1344,5 +1344,89 @@
   "notes": [
    "Omio case study — lessons о adoption и safety в conversational products"
   ]
+ },
+ "Agent Orchestration & Bayesian Control": {
+  "stream": "aidan",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Cost-efficient tool selection for constrained teams; directly applicable to Revit AI and future orchestration layer"
+  ]
+ },
+ "Safety & Evidence-Grounding for Mental Health Advice": {
+  "stream": "maya",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Knowledge-graph verification (T2D-Bench pattern) and causal caution detection essential for vulnerable users"
+  ]
+ },
+ "Multimodal Verification & Traceability": {
+  "stream": "maya",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ReMMD-style auditing for claim attribution in wellbeing context; builds user trust"
+  ]
+ },
+ "Multi-Agent Systems with Memory": {
+  "stream": "aidan",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ReM-MoA pattern relevant for future AI orchestration; sustains depth scaling"
+  ]
+ },
+ "Personalization via Behavior Understanding": {
+  "stream": "maya",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Adaptive voice/content to user patterns; long-term retention lever"
+  ]
+ },
+ "KV-Cache Optimization for Cost Reduction": {
+  "stream": "aidan",
+  "last_seen": "2026-06-24",
+  "seen_dates": [
+   "2026-06-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Relevant only if shifting to self-hosted models; defer 6+ months"
+  ]
  }
 }
