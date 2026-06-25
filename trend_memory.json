@@ -1428,5 +1428,75 @@
   "notes": [
    "Relevant only if shifting to self-hosted models; defer 6+ months"
   ]
+ },
+ "GUI-агенты с автономной оценкой": {
+  "stream": "aidan",
+  "last_seen": "2026-06-25",
+  "seen_dates": [
+   "2026-06-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Критично для Revit AI; позволяет обучать без ручной разметки"
+  ]
+ },
+ "Мультиагентная оркестрация и shared memory": {
+  "stream": "aidan",
+  "last_seen": "2026-06-25",
+  "seen_dates": [
+   "2026-06-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Фундамент для AI-orchestration-слоя в roadmap"
+  ]
+ },
+ "LLM-дистилляция для узкого домена": {
+  "stream": "aidan",
+  "last_seen": "2026-06-25",
+  "seen_dates": [
+   "2026-06-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Удешевление локальных моделей для BIM/IFC критично для cost-efficiency"
+  ]
+ },
+ "Safety и explainability в healthcare-LLM": {
+  "stream": "maya",
+  "last_seen": "2026-06-25",
+  "seen_dates": [
+   "2026-06-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Обязательно для mental-health-adjacent продукта; RaDaR показывает стандарты"
+  ]
+ },
+ "Emergent misalignment и его коррекция": {
+  "stream": "maya",
+  "last_seen": "2026-06-25",
+  "seen_dates": [
+   "2026-06-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Риск при дообучении на пользовательских данных; Self-Recognition метод перспективен"
+  ]
  }
 }
