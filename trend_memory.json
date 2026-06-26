@@ -1498,5 +1498,61 @@
   "notes": [
    "Риск при дообучении на пользовательских данных; Self-Recognition метод перспективен"
   ]
+ },
+ "Agent Safety Governance": {
+  "stream": "aidan",
+  "last_seen": "2026-06-26",
+  "seen_dates": [
+   "2026-06-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Autoformalization + formal policy verification; Instruction Bleed as architectural risk; LeanGuard for cheap guardrails"
+  ]
+ },
+ "Ethical AI Reasoning": {
+  "stream": "maya",
+  "last_seen": "2026-06-26",
+  "seen_dates": [
+   "2026-06-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Narration-of-Thought for defeasible reasoning; provenance tracking for mental-health advice; safety-first messaging"
+  ]
+ },
+ "Agentic Workflow Optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-06-26",
+  "seen_dates": [
+   "2026-06-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "SKILL-DISCO for procedural reuse; reduces token cost and latency"
+  ]
+ },
+ "Evidence-Grounded Wellbeing Claims": {
+  "stream": "maya",
+  "last_seen": "2026-06-26",
+  "seen_dates": [
+   "2026-06-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Uncertainty estimation in performance metrics; required for credibility and regulatory compliance"
+  ]
  }
 }
