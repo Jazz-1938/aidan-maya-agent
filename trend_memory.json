@@ -1554,5 +1554,103 @@
   "notes": [
    "Uncertainty estimation in performance metrics; required for credibility and regulatory compliance"
   ]
+ },
+ "Agent memory and persistence": {
+  "stream": "aidan",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Long-running workflows need parametric memory + retrieval (AIDAN orchestration layer)"
+  ]
+ },
+ "Knowledge integration during inference": {
+  "stream": "aidan",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "KARLA-like methods reduce API cost and enable offline compliance checking"
+  ]
+ },
+ "Cost optimization via semantic early-stopping": {
+  "stream": "aidan",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Multi-agent loops need intelligent halting; direct token/cost savings"
+  ]
+ },
+ "Psychological safety in companion AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "De-escalation, compassion preservation under post-training, non-assertive tone"
+  ]
+ },
+ "Digital twins for personalization": {
+  "stream": "maya",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Behavioral modeling via conversation patterns for user-specific support"
+  ]
+ },
+ "Values degradation in post-training": {
+  "stream": "maya",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Standard RLHF may harm mindfulness/compassion; needs custom training"
+  ]
+ },
+ "Agent task-sensitivity and instruction-following": {
+  "stream": "aidan",
+  "last_seen": "2026-06-27",
+  "seen_dates": [
+   "2026-06-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Automation workflows need robust instruction understanding; test on diverse BIM contexts"
+  ]
  }
 }
