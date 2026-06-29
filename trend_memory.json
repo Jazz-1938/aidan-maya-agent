@@ -75,7 +75,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -89,7 +89,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -103,7 +103,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -117,7 +117,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -131,7 +131,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -145,7 +145,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -159,7 +159,7 @@
   "seen_dates": [
    "2026-05-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1651,6 +1651,90 @@
   ],
   "notes": [
    "Automation workflows need robust instruction understanding; test on diverse BIM contexts"
+  ]
+ },
+ "Agent-Native Security": {
+  "stream": "aidan",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Runtime attacks on agents are real; AIDAN Revit AI needs native immune system before commercialization"
+  ]
+ },
+ "World Models for Planning": {
+  "stream": "aidan",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Multi-step BIM planning (clash detection, orchestration) requires parameterized world models to avoid hallucination drift"
+  ]
+ },
+ "Prompt Injection Impossibility": {
+  "stream": "maya",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Mathematically proven that shared-embedding LLMs cannot prevent injection; architecture redesign required for mental-health companion"
+  ]
+ },
+ "Evidence-Calibrated AI": {
+  "stream": "maya",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CalBrief framework allows wellbeing claims to be grounded with confidence bounds; essential for MAYA credibility and safety"
+  ]
+ },
+ "Emotional AI (slow-fast hybrid)": {
+  "stream": "maya",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MER-R1 shows fast+slow thinking beats pure slow for emotion; real-time companion adaptation becomes reliable"
+  ]
+ },
+ "Agentic Publication": {
+  "stream": "aidan",
+  "last_seen": "2026-06-29",
+  "seen_dates": [
+   "2026-06-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "APP format standardizes agent workflow reproduction; useful for scaling AIDAN orchestration across markets"
   ]
  }
 }
