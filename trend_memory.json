@@ -715,16 +715,19 @@
  },
  "Multi-agent orchestration": {
   "stream": "aidan",
-  "last_seen": "2026-06-11",
+  "last_seen": "2026-07-01",
   "seen_dates": [
-   "2026-06-11"
+   "2026-06-11",
+   "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 2,
   "priority_history": [
+   "ВЫСОКИЙ",
    "ВЫСОКИЙ"
   ],
   "notes": [
-   "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget"
+   "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget",
+   "ClawArena-Team, HASTE, hierarchical skills for workflow coordination"
   ]
  },
  "Geometry-intensive compliance automation": {
@@ -1735,6 +1738,76 @@
   ],
   "notes": [
    "APP format standardizes agent workflow reproduction; useful for scaling AIDAN orchestration across markets"
+  ]
+ },
+ "Iterative refinement and reflection": {
+  "stream": "aidan",
+  "last_seen": "2026-07-01",
+  "seen_dates": [
+   "2026-07-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Contrastive reflection for prompt optimization, ReGRPO for tool failure recovery"
+  ]
+ },
+ "Solver-grounded code generation": {
+  "stream": "aidan",
+  "last_seen": "2026-07-01",
+  "seen_dates": [
+   "2026-07-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Embodied CAD pattern directly applicable to IFC generation with validation"
+  ]
+ },
+ "Feedback effectiveness in agents": {
+  "stream": "aidan",
+  "last_seen": "2026-07-01",
+  "seen_dates": [
+   "2026-07-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Understanding when feedback improves vs. artifacts; critical for hybrid workflows"
+  ]
+ },
+ "User preference construction": {
+  "stream": "maya",
+  "last_seen": "2026-07-01",
+  "seen_dates": [
+   "2026-07-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Beyond elicitation—teaching domain knowledge first, then personalization"
+  ]
+ },
+ "Selective memory updates": {
+  "stream": "maya",
+  "last_seen": "2026-07-01",
+  "seen_dates": [
+   "2026-07-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Janus-style memory control for long-lived companions avoiding forgetting and overfitting"
   ]
  }
 }
