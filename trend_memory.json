@@ -201,7 +201,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -215,7 +215,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -229,7 +229,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -243,7 +243,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -257,7 +257,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -271,7 +271,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -285,7 +285,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -299,7 +299,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -313,7 +313,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -327,7 +327,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -341,7 +341,7 @@
   "seen_dates": [
    "2026-06-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1808,6 +1808,118 @@
   ],
   "notes": [
    "Janus-style memory control for long-lived companions avoiding forgetting and overfitting"
+  ]
+ },
+ "Agent orchestration & safety": {
+  "stream": "aidan",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Agentic Transaction Processing + Managed Autonomy для BIM automation roadmap; критично для Revit AI и clash detection"
+  ]
+ },
+ "RAG reliability & uncertainty": {
+  "stream": "aidan",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Bayesian propagation, schema reduction, robust aggregation — для compliance checking и IFC-aware assistant robustness"
+  ]
+ },
+ "Compliance automation": {
+  "stream": "aidan",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Floor plan checks framework; адаптация к Kazakhstan Code и buildingSMART Kazakhstan requirements"
+  ]
+ },
+ "LLM agent generalization": {
+  "stream": "aidan",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "OpenAgent benchmark; real-world robustness для Revit AI across versions и user configs"
+  ]
+ },
+ "Persona stability & alignment": {
+  "stream": "maya",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Persona Without Substrate warning; надёжная mindful identity для companion перед масштабированием"
+  ]
+ },
+ "Adaptive memory & personalization": {
+  "stream": "maya",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AutoMem + Knowledge graphs для долгосрочного mindfulness journey tracking без privacy violations"
+  ]
+ },
+ "AI coaching vs. human coaching": {
+  "stream": "maya",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "DigitalCoach gaps; safety consideration перед teacher-training features"
+  ]
+ },
+ "Preference dynamics & user agency": {
+  "stream": "maya",
+  "last_seen": "2026-07-02",
+  "seen_dates": [
+   "2026-07-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Constructive Alignment paradigm shift; этический дизайн companion, чтобы не манипулировать values"
   ]
  }
 }
