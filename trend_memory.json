@@ -2005,5 +2005,47 @@
   "notes": [
    "Reflective architecture для правильной калибровки доверия пользователя; UX-критично для mental health"
   ]
+ },
+ "Agentic LLM control & orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-07-13",
+  "seen_dates": [
+   "2026-07-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CogniConsole, GATS, Agora показывают, что управление контекстом и маршрутизацией критично; архитектурный фокус, а не просто prompt engineering"
+  ]
+ },
+ "AI safety in mental-health-adjacent systems": {
+  "stream": "maya",
+  "last_seen": "2026-07-13",
+  "seen_dates": [
+   "2026-07-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Reward hacking и semantic correctness — это не опции для companion; нужны audit frameworks"
+  ]
+ },
+ "Long-context & multi-turn efficiency": {
+  "stream": "aidan",
+  "last_seen": "2026-07-13",
+  "seen_dates": [
+   "2026-07-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "KV-cache optimization для долгих workflows; важно для project-lifecycle, но secondary к архитектуре"
+  ]
  }
 }
