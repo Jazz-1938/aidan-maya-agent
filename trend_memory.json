@@ -806,7 +806,7 @@
   "seen_dates": [
    "2026-06-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -820,7 +820,7 @@
   "seen_dates": [
    "2026-06-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -834,7 +834,7 @@
   "seen_dates": [
    "2026-06-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2046,6 +2046,76 @@
   ],
   "notes": [
    "KV-cache optimization для долгих workflows; важно для project-lifecycle, но secondary к архитектуре"
+  ]
+ },
+ "LLM agent abstention & safety": {
+  "stream": "maya",
+  "last_seen": "2026-07-14",
+  "seen_dates": [
+   "2026-07-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Information-seeking failures and AgentAbstain benchmark reveal critical safety gaps for health-adjacent companions; direct risk to vulnerable users if model commits without sufficient context"
+  ]
+ },
+ "Semantic drift in long-horizon agent systems": {
+  "stream": "maya",
+  "last_seen": "2026-07-14",
+  "seen_dates": [
+   "2026-07-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Long-term companion relationships vulnerable to gradual goal misalignment; needs memory architecture or periodic context refresh"
+  ]
+ },
+ "Multi-agent norm enforcement": {
+  "stream": "maya",
+  "last_seen": "2026-07-14",
+  "seen_dates": [
+   "2026-07-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Relevant for future community/social features; benchmark available when roadmap expands beyond single-user Telegram"
+  ]
+ },
+ "IFC/OpenBIM/BIM standards": {
+  "stream": "aidan",
+  "last_seen": "2026-07-14",
+  "seen_dates": [
+   "2026-07-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "No concrete updates in today's batch; continue monitoring buildingSMART Kazakhstan and gov digitalization timelines"
+  ]
+ },
+ "Revit-AI competitive landscape": {
+  "stream": "aidan",
+  "last_seen": "2026-07-14",
+  "seen_dates": [
+   "2026-07-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "US competitor momentum expected; monitor product releases and MCP/pyRevit ecosystem shifts weekly"
   ]
  }
 }
