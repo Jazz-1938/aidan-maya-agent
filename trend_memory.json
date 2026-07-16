@@ -848,7 +848,7 @@
   "seen_dates": [
    "2026-06-15"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -862,7 +862,7 @@
   "seen_dates": [
    "2026-06-15"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -876,7 +876,7 @@
   "seen_dates": [
    "2026-06-15"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -890,7 +890,7 @@
   "seen_dates": [
    "2026-06-15"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -904,7 +904,7 @@
   "seen_dates": [
    "2026-06-15"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "НИЗКИЙ"
   ],
@@ -2172,6 +2172,90 @@
   ],
   "notes": [
    "Frequent interactions reshape user behavior; risk of dependency if not carefully designed"
+  ]
+ },
+ "Agent Memory & State Management": {
+  "stream": "aidan",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Oracle Memory, Experience Memory Graph — критично для долгих BIM-проектов и Revit AI"
+  ]
+ },
+ "Agent Harness & Infrastructure": {
+  "stream": "aidan",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Harness Handbook, AgentCompass — управляемость растущих систем при ограниченной команде"
+  ]
+ },
+ "Safety-Constrained LLM Action": {
+  "stream": "aidan",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "SAFETY SENTRY pattern (execute/ask/refuse) для Revit automation без false alarms"
+  ]
+ },
+ "Mental-Health-Safe AI Companions": {
+  "stream": "maya",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Safe-Psych, DROPJ, human preferences — user-safety в психически-уязвимой популяции"
+  ]
+ },
+ "Longitudinal Personalization & Adaptation": {
+  "stream": "maya",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "HealthClaw pattern — долгая история пользователя, адаптация к изменениям состояния"
+  ]
+ },
+ "Epistemic Humility in AI Advice": {
+  "stream": "maya",
+  "last_seen": "2026-07-16",
+  "seen_dates": [
+   "2026-07-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AI advice suppresses 'I don't know' — пользователь слепо верит; нужен дизайн для сомнения"
   ]
  }
 }
