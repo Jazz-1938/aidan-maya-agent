@@ -1100,7 +1100,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1114,7 +1114,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1128,7 +1128,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1142,7 +1142,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1156,7 +1156,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1170,7 +1170,7 @@
   "seen_dates": [
    "2026-06-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2256,6 +2256,90 @@
   ],
   "notes": [
    "AI advice suppresses 'I don't know' — пользователь слепо верит; нужен дизайн для сомнения"
+  ]
+ },
+ "Multimodal BIM understanding (construction drawings)": {
+  "stream": "aidan",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DrawingVQA benchmark показывает gap в MLLM capability на реальных чертежах — напрямую влияет на качество Revit AI и BIM assistant"
+  ]
+ },
+ "Hybrid neuro-symbolic compliance checking": {
+  "stream": "aidan",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Small local model + deterministic rules дешевле и надежнее для нормативной работы (LEED, IBC, СНиП) — важно для compliance roadmap"
+  ]
+ },
+ "AI-to-AI safety and escalation control": {
+  "stream": "maya",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Multi-agent coercion/deception benchmark — критично если MAYA будет иметь внешние интеграции; уязвимая аудитория требует strict controls"
+  ]
+ },
+ "Empathy as dynamic repair in dialogue": {
+  "stream": "maya",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Переопределение эмпатии через predictive misalignment tolerance — это ключ для mindful companion, отличает от generic chatbot'ов"
+  ]
+ },
+ "User agency and transparency in recommendations": {
+  "stream": "maya",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Для wellbeing-приложения обязательна видимость в модель пользователя и его контроль (filter-bubble prevention)"
+  ]
+ },
+ "Multi-modal orchestration patterns (JSON planning + typed agents)": {
+  "stream": "aidan",
+  "last_seen": "2026-07-20",
+  "seen_dates": [
+   "2026-07-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "AnovaX и Knowledge-Centric Agents показывают архитектуру для reliable multi-agent workflows; применима к AI orchestration layer"
   ]
  }
 }
