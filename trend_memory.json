@@ -1184,7 +1184,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1198,7 +1198,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1212,7 +1212,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1226,7 +1226,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1240,7 +1240,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1254,7 +1254,7 @@
   "seen_dates": [
    "2026-06-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2340,6 +2340,76 @@
   ],
   "notes": [
    "AnovaX и Knowledge-Centric Agents показывают архитектуру для reliable multi-agent workflows; применима к AI orchestration layer"
+  ]
+ },
+ "LLM agent memory & long-context reasoning": {
+  "stream": "maya",
+  "last_seen": "2026-07-21",
+  "seen_dates": [
+   "2026-07-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "RECON + MOSAIC указывают на важность структурированной памяти для персональных компаньонов; долговременность = trust"
+  ]
+ },
+ "Multi-agent architectures for specialized tasks": {
+  "stream": "maya",
+  "last_seen": "2026-07-21",
+  "seen_dates": [
+   "2026-07-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DS@GT depression screening показывает, что разделение интервью/оценки снижает риск и улучшает quality; MAYA может применить для интервью-адаптации"
+  ]
+ },
+ "Guardrails & safety-by-remediation": {
+  "stream": "maya",
+  "last_seen": "2026-07-21",
+  "seen_dates": [
+   "2026-07-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "RAIL Guard — не только detection, но evaluate-rewrite-reevaluate loop; критично для mental-health-adjacent систем"
+  ]
+ },
+ "Rater bias in training data": {
+  "stream": "maya",
+  "last_seen": "2026-07-21",
+  "seen_dates": [
+   "2026-07-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "RLHF-feedback от уязвимых пользователей может быть систематически смещён; нужна фильтрация/контроль стейта"
+  ]
+ },
+ "Affective & emotional interfaces": {
+  "stream": "maya",
+  "last_seen": "2026-07-21",
+  "seen_dates": [
+   "2026-07-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Touch-based affect recognition (item 3) + voice (item 31) — мультимодальность для mindfulness компаньона, не urgent сейчас"
   ]
  }
 }
