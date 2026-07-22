@@ -2411,5 +2411,89 @@
   "notes": [
    "Touch-based affect recognition (item 3) + voice (item 31) — мультимодальность для mindfulness компаньона, не urgent сейчас"
   ]
+ },
+ "agent_reliability_orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Phionyx, AgentDebugX, SAAG, BatchDAG — весь стек для надежных multi-turn BIM workflows"
+  ]
+ },
+ "specialized_guardrails_mlh": {
+  "stream": "maya",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Fence, SciHazard scoring — дешевые специализированные guardrails для vulnerable domains"
+  ]
+ },
+ "safety_drift_longrunning_agents": {
+  "stream": "both",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Operational Hallucination paper показывает реальный риск для production agents"
+  ]
+ },
+ "skill_discovery_routing": {
+  "stream": "aidan",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "SkillSight, ToolDNS — когда инструментов много, нужен robust discovery"
+  ]
+ },
+ "emotional_grounding_ai_companions": {
+  "stream": "maya",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Semantic primes, Evidence-Chain Eval — для honest emotion understanding in companions"
+  ]
+ },
+ "evidence_aware_factchecking": {
+  "stream": "maya",
+  "last_seen": "2026-07-22",
+  "seen_dates": [
+   "2026-07-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ECE позволяет companion сказать 'не знаю' вместо угадывания — критично для trust"
+  ]
  }
 }
