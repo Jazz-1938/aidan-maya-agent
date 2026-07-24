@@ -169,16 +169,19 @@
  },
  "LLM inference optimization": {
   "stream": "aidan",
-  "last_seen": "2026-05-30",
+  "last_seen": "2026-07-24",
   "seen_dates": [
-   "2026-05-30"
+   "2026-05-30",
+   "2026-07-24"
   ],
-  "count_30d": 0,
+  "count_30d": 1,
   "priority_history": [
-   "ВЫСОКИЙ"
+   "ВЫСОКИЙ",
+   "СРЕДНИЙ"
   ],
   "notes": [
-   "DynoSim removes manual tuning bottleneck for local models—critical for cost reduction"
+   "DynoSim removes manual tuning bottleneck for local models—critical for cost reduction",
+   "MiniCache, CARGO, SonicSampler — дешевые инференс-техники, релевантны для API-экономики (Google Gemini)"
   ]
  },
  "LLM-assisted code generation": {
@@ -715,19 +718,22 @@
  },
  "Multi-agent orchestration": {
   "stream": "aidan",
-  "last_seen": "2026-07-01",
+  "last_seen": "2026-07-24",
   "seen_dates": [
    "2026-06-11",
-   "2026-07-01"
+   "2026-07-01",
+   "2026-07-24"
   ],
-  "count_30d": 1,
+  "count_30d": 2,
   "priority_history": [
+   "ВЫСОКИЙ",
    "ВЫСОКИЙ",
    "ВЫСОКИЙ"
   ],
   "notes": [
    "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget",
-   "ClawArena-Team, HASTE, hierarchical skills for workflow coordination"
+   "ClawArena-Team, HASTE, hierarchical skills for workflow coordination",
+   "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
  "Geometry-intensive compliance automation": {
@@ -1312,7 +1318,7 @@
   "seen_dates": [
    "2026-06-23"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1326,7 +1332,7 @@
   "seen_dates": [
    "2026-06-23"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1340,7 +1346,7 @@
   "seen_dates": [
    "2026-06-23"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2494,6 +2500,48 @@
   ],
   "notes": [
    "ECE позволяет companion сказать 'не знаю' вместо угадывания — критично для trust"
+  ]
+ },
+ "Safe code generation": {
+  "stream": "aidan",
+  "last_seen": "2026-07-24",
+  "seen_dates": [
+   "2026-07-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ExecuGraph, MKEvolve — для Revit AI и автоматизации с гарантией корректности"
+  ]
+ },
+ "AI safety & alignment": {
+  "stream": "maya",
+  "last_seen": "2026-07-24",
+  "seen_dates": [
+   "2026-07-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Reliability-Aware Alignment, FlowEdit, deception detection — критично для mindfulness-компаньона (mental-health-adjacent)"
+  ]
+ },
+ "Personalization in AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-07-24",
+  "seen_dates": [
+   "2026-07-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Benchmarking personalization, memory, emotional adaptation — метрики для roadmap"
   ]
  }
 }
