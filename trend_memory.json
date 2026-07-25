@@ -1360,7 +1360,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1374,7 +1374,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1388,7 +1388,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1402,7 +1402,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1416,7 +1416,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1430,7 +1430,7 @@
   "seen_dates": [
    "2026-06-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "НИЗКИЙ"
   ],
@@ -2542,6 +2542,34 @@
   ],
   "notes": [
    "Benchmarking personalization, memory, emotional adaptation — метрики для roadmap"
+  ]
+ },
+ "Model distribution and inference optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-07-25",
+  "seen_dates": [
+   "2026-07-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "NVIDIA ModelExpress for fast large model delivery; relevant for future self-hosted deployments in Central Asia and China"
+  ]
+ },
+ "Open model infrastructure": {
+  "stream": "aidan",
+  "last_seen": "2026-07-25",
+  "seen_dates": [
+   "2026-07-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Ongoing tracking of cost-efficient model serving for Revit AI and local deployments"
   ]
  }
 }
