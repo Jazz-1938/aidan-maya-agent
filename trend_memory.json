@@ -1514,7 +1514,7 @@
   "seen_dates": [
    "2026-06-26"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1528,7 +1528,7 @@
   "seen_dates": [
    "2026-06-26"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1542,7 +1542,7 @@
   "seen_dates": [
    "2026-06-26"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1556,7 +1556,7 @@
   "seen_dates": [
    "2026-06-26"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2570,6 +2570,90 @@
   ],
   "notes": [
    "Ongoing tracking of cost-efficient model serving for Revit AI and local deployments"
+  ]
+ },
+ "LLM code repair & verification loops": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "feedback-loop patterns (Tool-Guided RAG, KaPilot, HarnessLLM) applicable to IFC generation & Revit AI quality"
+  ]
+ },
+ "Multi-agent coordination for parallel tasks": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Claim Plane model for scoped mutations; directly relevant to AI orchestration layer roadmap"
+  ]
+ },
+ "Output format as performance lever": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "output-format x model identity interaction crucial for DeepSeek/Qwen cost optimization"
+  ]
+ },
+ "Open-source model licensing drift": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Hugging Face → GitHub license divergence; due-diligence for production model choice"
+  ]
+ },
+ "Code review as conversation": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "multi-turn dialogue vs one-shot; design pattern for Revit AI QA/QC module"
+  ]
+ },
+ "EU AI Act compliance translation": {
+  "stream": "aidan",
+  "last_seen": "2026-07-27",
+  "seen_dates": [
+   "2026-07-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "requirements-engineering for regulatory obligation-to-spec; monitor for Kazakhstan/EU roadmap 2027+"
   ]
  }
 }
