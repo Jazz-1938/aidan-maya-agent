@@ -3,7 +3,6 @@
   "stream": "aidan",
   "last_seen": "2026-07-24",
   "seen_dates": [
-   "2026-05-30",
    "2026-07-24"
   ],
   "count_30d": 1,
@@ -14,20 +13,6 @@
   "notes": [
    "DynoSim removes manual tuning bottleneck for local models—critical for cost reduction",
    "MiniCache, CARGO, SonicSampler — дешевые инференс-техники, релевантны для API-экономики (Google Gemini)"
-  ]
- },
- "LLM-assisted code generation": {
-  "stream": "aidan",
-  "last_seen": "2026-05-30",
-  "seen_dates": [
-   "2026-05-30"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Relevant for Revit AI scaling, but not immediate priority"
   ]
  },
  "Agentic AI safety in multi-step reasoning": {
@@ -1500,7 +1485,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1514,7 +1499,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1528,7 +1513,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1542,7 +1527,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1556,7 +1541,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1570,7 +1555,7 @@
   "seen_dates": [
    "2026-06-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
