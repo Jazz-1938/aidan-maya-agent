@@ -2626,5 +2626,103 @@
   "notes": [
    "Модель PATHFinder (context → plan → resources) применима к mindfulness workflows"
   ]
+ },
+ "Agent code generation & snippet versioning": {
+  "stream": "aidan",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LLM agents can track repair history and reuse solutions across sessions; relevant for Revit AI and cost optimization"
+  ]
+ },
+ "Evaluation inflation in benchmarks": {
+  "stream": "aidan",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Published eval scores misleading at scale; critical for choosing cheap models (DeepSeek, Qwen)"
+  ]
+ },
+ "Domain-specific agent rules (GuideSkill, GoGoTB pattern)": {
+  "stream": "aidan",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Compile domain rules into constraint functions; applicable to compliance checking and clash detection"
+  ]
+ },
+ "LLM bias toward vulnerable groups": {
+  "stream": "maya",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Mental health adjacent work requires active bias auditing; safety non-negotiable"
+  ]
+ },
+ "Hierarchical user understanding in companions": {
+  "stream": "maya",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Inferring abstract user traits (not just facts) improves retention and personalization"
+  ]
+ },
+ "Evidence-grounding for health claims": {
+  "stream": "maya",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Companion advice must cite sources; hallucinated claims are harmful in mental health context"
+  ]
+ },
+ "LLM safety realignment against fine-tuning attacks": {
+  "stream": "maya",
+  "last_seen": "2026-07-31",
+  "seen_dates": [
+   "2026-07-31"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "If teacher training involves customization, need template-robust guards"
+  ]
  }
 }
