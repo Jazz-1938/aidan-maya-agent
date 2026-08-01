@@ -1,172 +1,21 @@
 {
  "LLM inference optimization": {
   "stream": "aidan",
-  "last_seen": "2026-07-24",
+  "last_seen": "2026-08-01",
   "seen_dates": [
-   "2026-07-24"
+   "2026-07-24",
+   "2026-08-01"
   ],
-  "count_30d": 1,
+  "count_30d": 2,
   "priority_history": [
    "ВЫСОКИЙ",
-   "СРЕДНИЙ"
+   "СРЕДНИЙ",
+   "ВЫСОКИЙ"
   ],
   "notes": [
    "DynoSim removes manual tuning bottleneck for local models—critical for cost reduction",
-   "MiniCache, CARGO, SonicSampler — дешевые инференс-техники, релевантны для API-экономики (Google Gemini)"
-  ]
- },
- "Agentic AI safety in multi-step reasoning": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "COMPASS framework shows how harmful intents mask as innocuous steps — critical for mental-health companion safety"
-  ]
- },
- "CDE integration with agentic automation": {
-  "stream": "aidan",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Procore CDE signals market move toward agent-executable data environments; AIDAN must map inference → action"
-  ]
- },
- "Expert knowledge distillation for agents": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "COLLEAGUE.SKILL enables teacher expertise extraction; relevant for MAYA teacher-training roadmap"
-  ]
- },
- "Privacy-preserving LLM audit": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "LLM-FACETS shows local, user-privacy-first evaluation; critical for mental-health data handling"
-  ]
- },
- "Pluralistic alignment via personas": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Persona-based evaluation helps ensure safety/quality across cultural, demographic, psychiatric-profile variance"
-  ]
- },
- "Agent Logic & Orchestration": {
-  "stream": "aidan",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "IBM research confirms that enterprise AI depends on agent architecture, not model size. Validates AIDAN's MCP + orchestration roadmap as strategic priority."
-  ]
- },
- "Open/Efficient Models (MoE)": {
-  "stream": "aidan",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Mellum2 by JetBrains offers 12B MoE for self-hosting. Cost/latency advantage for IFC analysis and Revit AI."
-  ]
- },
- "Data Poisoning in RAG": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Proof of concept: embedded RAG systems vulnerable to subtle injection of malicious knowledge. Critical for health-adjacent companions."
-  ]
- },
- "Counterfactual Testing for Clinical AI": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "CSS method reveals when AI ignores input changes. Essential for MAYA's behavioral adaptation in mental health context."
-  ]
- },
- "Multilingual Embeddings for Healthcare": {
-  "stream": "maya",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Generic embeddings fail for medical search in non-English. MAYA needs Russian-specific fine-tuning for mindfulness search/memory."
-  ]
- },
- "VLM 3D Capabilities": {
-  "stream": "aidan",
-  "last_seen": "2026-06-01",
-  "seen_dates": [
-   "2026-06-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "VLMs learning native 3D without special architecture. Relevant for future scan-to-BIM roadmap, not immediate."
+   "MiniCache, CARGO, SonicSampler — дешевые инференс-техники, релевантны для API-экономики (Google Gemini)",
+   "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
  "LLM agent safety and refusal": {
@@ -541,7 +390,7 @@
    "2026-07-01",
    "2026-07-24"
   ],
-  "count_30d": 2,
+  "count_30d": 1,
   "priority_history": [
    "ВЫСОКИЙ",
    "ВЫСОКИЙ",
@@ -1569,7 +1418,7 @@
   "seen_dates": [
    "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1583,7 +1432,7 @@
   "seen_dates": [
    "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1597,7 +1446,7 @@
   "seen_dates": [
    "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1611,7 +1460,7 @@
   "seen_dates": [
    "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1625,7 +1474,7 @@
   "seen_dates": [
    "2026-07-01"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2723,6 +2572,48 @@
   ],
   "notes": [
    "If teacher training involves customization, need template-robust guards"
+  ]
+ },
+ "AI model commoditization & pricing": {
+  "stream": "aidan",
+  "last_seen": "2026-08-01",
+  "seen_dates": [
+   "2026-08-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "OpenAI/DeepSeek cost reductions affect AIDAN's API dependency strategy; self-hosted open models becoming viable alternative"
+  ]
+ },
+ "EU AI Act compliance": {
+  "stream": "maya",
+  "last_seen": "2026-08-01",
+  "seen_dates": [
+   "2026-08-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Regulatory tightening for health-adjacent AI; mandatory for any European expansion; safety audit non-optional"
+  ]
+ },
+ "AI responsiveness in mental health": {
+  "stream": "maya",
+  "last_seen": "2026-08-01",
+  "seen_dates": [
+   "2026-08-01"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Evidence-based wellbeing frameworks (Greater Good) provide content/validation baseline for companion design"
   ]
  }
 }
