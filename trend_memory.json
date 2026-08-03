@@ -18,76 +18,6 @@
    "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
- "LLM agent safety and refusal": {
-  "stream": "maya",
-  "last_seen": "2026-06-03",
-  "seen_dates": [
-   "2026-06-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "compliance bias, agents proceeding without authorization — direct safety risk for mental-health-adjacent product"
-  ]
- },
- "Incremental memory and personalization in agents": {
-  "stream": "maya",
-  "last_seen": "2026-06-03",
-  "seen_dates": [
-   "2026-06-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "DeltaMem, SkillDAG — solves long-context problem for retention and depth of user adaptation"
-  ]
- },
- "BIM collaboration infrastructure": {
-  "stream": "aidan",
-  "last_seen": "2026-06-03",
-  "seen_dates": [
-   "2026-06-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Graphisoft collaboration layer signals API opportunity; monitor for integration possibilities"
-  ]
- },
- "Open-source capable AI models": {
-  "stream": "aidan",
-  "last_seen": "2026-06-03",
-  "seen_dates": [
-   "2026-06-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "no concrete news today, but remains critical for cost reduction; watch DeepSeek, Qwen releases"
-  ]
- },
- "MCP and Revit AI ecosystem": {
-  "stream": "aidan",
-  "last_seen": "2026-06-03",
-  "seen_dates": [
-   "2026-06-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "no new competitive moves this batch; continue active monitoring of US competitors"
-  ]
- },
  "MCP + Graph Planning": {
   "stream": "aidan",
   "last_seen": "2026-06-04",
@@ -2614,6 +2544,76 @@
   ],
   "notes": [
    "Evidence-based wellbeing frameworks (Greater Good) provide content/validation baseline for companion design"
+  ]
+ },
+ "Agent architecture & orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-08-03",
+  "seen_dates": [
+   "2026-08-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Multi-layer inference/orchestration/execution separation critical for AIDAN roadmap"
+  ]
+ },
+ "Tool specification safety": {
+  "stream": "aidan",
+  "last_seen": "2026-08-03",
+  "seen_dates": [
+   "2026-08-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Weak tool schemas undermine model safety; critical for Revit MCP before commercialization"
+  ]
+ },
+ "AI companion persona stability": {
+  "stream": "maya",
+  "last_seen": "2026-08-03",
+  "seen_dates": [
+   "2026-08-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Long-horizon persona collapse observed empirically; MAYA must address before scaling users"
+  ]
+ },
+ "AI safety in high-stakes domains": {
+  "stream": "maya",
+  "last_seen": "2026-08-03",
+  "seen_dates": [
+   "2026-08-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LLM-driven decisions in mental health require explicit safety boundaries, not just capability"
+  ]
+ },
+ "Agent evaluation methodology": {
+  "stream": "aidan",
+  "last_seen": "2026-08-03",
+  "seen_dates": [
+   "2026-08-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Beyond unit tests; need trajectory-level validation for clash detection & automation workflows"
   ]
  }
 }
