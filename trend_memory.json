@@ -2447,5 +2447,103 @@
   "notes": [
    "Beyond unit tests; need trajectory-level validation for clash detection & automation workflows"
   ]
+ },
+ "MCP tool-selection robustness": {
+  "stream": "aidan",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Canary tools technique critical for Revit AI reliability before commercialization"
+  ]
+ },
+ "LLM agent architecture efficiency": {
+  "stream": "aidan",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CPU-GPU fragmentation in agentic workflows; AWS optimization needed for cost control"
+  ]
+ },
+ "KV-cache optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Reward-coordinated compression cuts inference cost 20-40%; test on Graph-RAG immediately"
+  ]
+ },
+ "Multi-turn safety & manipulation defense": {
+  "stream": "maya",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Mental-health adjacent systems must defend against context-based manipulation attacks"
+  ]
+ },
+ "Long-horizon memory benchmarking": {
+  "stream": "maya",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "ContextWeave methodology for measuring real memory utility in retention & adaptation"
+  ]
+ },
+ "Personalized event-driven adaptation": {
+  "stream": "maya",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "FinPerMA framework translates to mindfulness domain for life-event-aware recommendations"
+  ]
+ },
+ "Homeostatic attention allocation": {
+  "stream": "maya",
+  "last_seen": "2026-08-06",
+  "seen_dates": [
+   "2026-08-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Theory for dynamic prioritization of user needs in multi-goal companion design"
+  ]
  }
 }
