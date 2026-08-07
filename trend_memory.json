@@ -18,34 +18,6 @@
    "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
- "Claude Code debugging & observability": {
-  "stream": "aidan",
-  "last_seen": "2026-06-07",
-  "seen_dates": [
-   "2026-06-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Her tool for MCP/pyRevit automation visibility"
-  ]
- },
- "LLM behavior transparency": {
-  "stream": "maya",
-  "last_seen": "2026-06-07",
-  "seen_dates": [
-   "2026-06-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "НИЗКИЙ"
-  ],
-  "notes": [
-   "Indirect relevance to safety validation; not primary"
-  ]
- },
  "MCP_security": {
   "stream": "aidan",
   "last_seen": "2026-06-09",
@@ -1362,7 +1334,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1376,7 +1348,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1390,7 +1362,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1404,7 +1376,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1418,7 +1390,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1432,7 +1404,7 @@
   "seen_dates": [
    "2026-07-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2544,6 +2516,76 @@
   ],
   "notes": [
    "Theory for dynamic prioritization of user needs in multi-goal companion design"
+  ]
+ },
+ "Agent Orchestration & Failure Diagnosis": {
+  "stream": "aidan",
+  "last_seen": "2026-08-07",
+  "seen_dates": [
+   "2026-08-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Agentic Nesting + OrchestraBench определяют архитектуру многоагентных BIM-систем и диагностику отказов. Критично для AI-orchestration roadmap."
+  ]
+ },
+ "Economic Decision-Making in Agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-07",
+  "seen_dates": [
+   "2026-08-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "EcoAgent-Bench: стратегический выбор между дешёвым локальным анализом и дорогим LLM-вызовом. Решает проблему cost-efficiency для AWS-infra с ограниченным бюджетом."
+  ]
+ },
+ "Skill Reuse & Auditing": {
+  "stream": "aidan",
+  "last_seen": "2026-08-07",
+  "seen_dates": [
+   "2026-08-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "SkillTrace: для Revit AI marketplace нужна система версионирования и аудита skills. Растущая проблема по мере масштабирования."
+  ]
+ },
+ "AI Safety in Mental Health Contexts": {
+  "stream": "maya",
+  "last_seen": "2026-08-07",
+  "seen_dates": [
+   "2026-08-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Sycophancy detection + Epistemic Trustworthiness: MAYA работает с уязвимыми пользователями. Вредный совет от AI-companion может иметь серьёзные последствия. Safety = mandatory."
+  ]
+ },
+ "Pedagogical Personalization": {
+  "stream": "maya",
+  "last_seen": "2026-08-07",
+  "seen_dates": [
+   "2026-08-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "PSI метрика + LUNAR: персонализация mindfulness-обучения к уровню практики пользователя. Ключ к retention и релевантности."
   ]
  }
 }
