@@ -37,48 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "MiniMax M3 long-context models": {
-  "stream": "aidan",
-  "last_seen": "2026-06-13",
-  "seen_dates": [
-   "2026-06-13"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Потенциальная замена Google Gemini API; долгоконтекст критичен для IFC-моделей"
-  ]
- },
- "Agentic AI benchmarks": {
-  "stream": "aidan",
-  "last_seen": "2026-06-13",
-  "seen_dates": [
-   "2026-06-13"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "NVIDIA стандарт для оценки code-generation; важно для Revit-AI и orchestration"
-  ]
- },
- "Open model evaluation tools": {
-  "stream": "aidan",
-  "last_seen": "2026-06-13",
-  "seen_dates": [
-   "2026-06-13"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "OLMo-eval для сравнения DeepSeek/Qwen/open-source альтернатив"
-  ]
- },
  "Agent memory and personalization": {
   "stream": "maya",
   "last_seen": "2026-06-15",
@@ -1249,7 +1207,7 @@
   "seen_dates": [
    "2026-07-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1263,7 +1221,7 @@
   "seen_dates": [
    "2026-07-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1277,7 +1235,7 @@
   "seen_dates": [
    "2026-07-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
