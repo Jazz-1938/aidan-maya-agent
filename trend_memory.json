@@ -1249,7 +1249,7 @@
   "seen_dates": [
    "2026-07-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1263,7 +1263,7 @@
   "seen_dates": [
    "2026-07-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1277,7 +1277,7 @@
   "seen_dates": [
    "2026-07-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1291,7 +1291,7 @@
   "seen_dates": [
    "2026-07-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1305,7 +1305,7 @@
   "seen_dates": [
    "2026-07-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -2487,6 +2487,90 @@
   ],
   "notes": [
    "Контекстное value alignment, экономия памяти без потери персонализации"
+  ]
+ },
+ "Agent Memory & Persistence": {
+  "stream": "aidan",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MindMemOS + Governed Persistent Memory для orchestration layer и long-context BIM workflows"
+  ]
+ },
+ "LLM Safety under Pressure": {
+  "stream": "maya",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "IntegrityBench + moral alignment divergence — validate before scaling"
+  ]
+ },
+ "Language-Dependent Safety Drift": {
+  "stream": "maya",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Russian-language models may have different safety profiles; urgent validation needed"
+  ]
+ },
+ "Constrained Decoding for Domain Vocabularies": {
+  "stream": "aidan",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Trie Automata для справочников BIM; снижение latency"
+  ]
+ },
+ "Skill Misevolution in Self-Improving Agents": {
+  "stream": "maya",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Practice Makes Unsafe — validate feedback loops don't amplify harmful patterns"
+  ]
+ },
+ "Evidence-Grounded Reasoning": {
+  "stream": "maya",
+  "last_seen": "2026-08-14",
+  "seen_dates": [
+   "2026-08-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "ReflectFact for mental health fact-checking; integrate into health recommendations"
   ]
  }
 }
