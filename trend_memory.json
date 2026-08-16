@@ -37,76 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "MCP": {
-  "stream": "aidan",
-  "last_seen": "2026-06-16",
-  "seen_dates": [
-   "2026-06-16"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "PrologMCP adds symbolic reasoning layer; validates MCP as orchestration standard for AIDAN toolchain"
-  ]
- },
- "Agent self-improvement": {
-  "stream": "aidan",
-  "last_seen": "2026-06-16",
-  "seen_dates": [
-   "2026-06-16"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "APEX pattern applicable to production Revit AI; 14-21% gains in reliability critical for commercialization"
-  ]
- },
- "LLM safety in high-stakes contexts": {
-  "stream": "maya",
-  "last_seen": "2026-06-16",
-  "seen_dates": [
-   "2026-06-16"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Reward hacking zero-shot; Frame-conditioned ethics; both show hidden risks in mental-health-adjacent AI"
-  ]
- },
- "Agent safety evaluation": {
-  "stream": "aidan",
-  "last_seen": "2026-06-16",
-  "seen_dates": [
-   "2026-06-16"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "OSGuard, ToolMenuBench establish evaluation protocols; needed as AIDAN agent surface grows"
-  ]
- },
- "Agent self-evolution with safety constraints": {
-  "stream": "maya",
-  "last_seen": "2026-06-16",
-  "seen_dates": [
-   "2026-06-16"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "VIBEMed sandbox pattern; mental-health systems must improve without degrading crisis response"
-  ]
- },
  "MCP-compatible agent architectures": {
   "stream": "aidan",
   "last_seen": "2026-06-18",
@@ -1305,7 +1235,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1319,7 +1249,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1333,7 +1263,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1347,7 +1277,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1361,7 +1291,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1375,7 +1305,7 @@
   "seen_dates": [
    "2026-07-16"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
