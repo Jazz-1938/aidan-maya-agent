@@ -2432,5 +2432,89 @@
   "notes": [
    "ReflectFact for mental health fact-checking; integrate into health recommendations"
   ]
+ },
+ "MCP agent infrastructure": {
+  "stream": "aidan",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MOOSEDev shows practical MCP use for agent memory; AIDAN Revit AI should adopt similar patterns"
+  ]
+ },
+ "Agent memory and conflict resolution": {
+  "stream": "maya",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Irreducible conflict in memory is critical for mindfulness companions; affects psychological safety"
+  ]
+ },
+ "Governed agent execution": {
+  "stream": "aidan",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Agentao-style governance needed for Revit AI operating inside models; prevents model corruption"
+  ]
+ },
+ "Agent behavioral consistency": {
+  "stream": "maya",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "BCM metric applies to companion consistency; users trust stability over raw success"
+  ]
+ },
+ "Parallel agent reasoning": {
+  "stream": "aidan",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Second Thought reduces latency in action-wait-observe loops; relevant for orchestration layer"
+  ]
+ },
+ "Content depth vs engagement": {
+  "stream": "maya",
+  "last_seen": "2026-08-17",
+  "seen_dates": [
+   "2026-08-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Shallow content harms wellbeing; foundational for MAYA's design philosophy"
+  ]
  }
 }
