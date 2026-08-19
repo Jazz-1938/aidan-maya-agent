@@ -37,90 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Agentic AI governance & deontic policies": {
-  "stream": "aidan",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Critical for production Revit AI agent safety; need runtime constraints framework"
-  ]
- },
- "MCP agent evaluation in production": {
-  "stream": "aidan",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Practical methodology for validating AIDAN agent before commercial deployment"
-  ]
- },
- "LLM safety & alignment for wellbeing products": {
-  "stream": "maya",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Emergent alignment + epistemic blind spots detection are table-stakes for mental-health-adjacent companion"
-  ]
- },
- "Uncertainty & confidence estimation in API-only LLMs": {
-  "stream": "aidan",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Relevant for Gemini-based AIDAN assistant reliability"
-  ]
- },
- "Epistemic uncertainty in conversational AI": {
-  "stream": "maya",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Core for honest mindfulness companion; must decline out-of-scope mental-health queries"
-  ]
- },
- "Agentic RAG with complex data dependencies": {
-  "stream": "aidan",
-  "last_seen": "2026-06-19",
-  "seen_dates": [
-   "2026-06-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Cross-document reasoning applicable to BIM multi-document workflows"
-  ]
- },
  "Open/cheap LLM models (DeepSeek, Qwen)": {
   "stream": "aidan",
   "last_seen": "2026-06-20",
@@ -2403,6 +2319,48 @@
   ],
   "notes": [
    "Shallow content harms wellbeing; foundational for MAYA's design philosophy"
+  ]
+ },
+ "Agent Runtime Governance": {
+  "stream": "maya",
+  "last_seen": "2026-08-19",
+  "seen_dates": [
+   "2026-08-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Aegis-паттерн для безопасной валидации действий перед выполнением — критично для психологического AI"
+  ]
+ },
+ "Memory & State Classification Audit": {
+  "stream": "maya",
+  "last_seen": "2026-08-19",
+  "seen_dates": [
+   "2026-08-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Explicit audit-протокол выявляет hallucinated memory — необходимо тестировать на MAYA"
+  ]
+ },
+ "BIM-specific Agents & MCP": {
+  "stream": "aidan",
+  "last_seen": "2026-08-19",
+  "seen_dates": [
+   "2026-08-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Ждём публикаций по agentам для построительства и OpenBIM; много generic agent-фреймворков, но для BIM нет"
   ]
  }
 }
