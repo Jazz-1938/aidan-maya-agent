@@ -37,90 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Open/cheap LLM models (DeepSeek, Qwen)": {
-  "stream": "aidan",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "DeepSeek-V4 solves cost + context bottleneck; test immediately vs Gemini API"
-  ]
- },
- "Multi-agent orchestration & control layers": {
-  "stream": "aidan",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "AIDAN, RACL, LedgerAgent show patterns for coordinating specialist agents; applicable to clash + code + automation layers"
-  ]
- },
- "IFC editing/modification benchmarks": {
-  "stream": "aidan",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "BIM-Edit provides real test cases for AI-native model editing; validates your roadmap gap"
-  ]
- },
- "LLM safety for mental-health contexts": {
-  "stream": "maya",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Mixed-compliance & hallucination risks are direct user-harm vectors; mandatory audit before scaling"
-  ]
- },
- "Hallucination detection in factual domains": {
-  "stream": "maya",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Health claims require grounding checks; integrate before health-claim features"
-  ]
- },
- "Adaptive personalization in companion AI": {
-  "stream": "maya",
-  "last_seen": "2026-06-20",
-  "seen_dates": [
-   "2026-06-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Tutoring research shows pedagogy; mindful-AI teacher training may benefit from adaptive prompting patterns"
-  ]
- },
  "Open-source OCR models": {
   "stream": "aidan",
   "last_seen": "2026-06-22",
@@ -1123,7 +1039,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1137,7 +1053,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1151,7 +1067,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1165,7 +1081,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1179,7 +1095,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1193,7 +1109,7 @@
   "seen_dates": [
    "2026-07-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2361,6 +2277,90 @@
   ],
   "notes": [
    "Ждём публикаций по agentам для построительства и OpenBIM; много generic agent-фреймворков, но для BIM нет"
+  ]
+ },
+ "Multi-agent concurrency control": {
+  "stream": "aidan",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LLM agents fail under concurrent shared-state access; classical concurrency bugs not coordination issues; critical for orchestration layer"
+  ]
+ },
+ "Behavioral testing for AI agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Process-level evaluation (not just outcome correctness) becoming standard; essential for QA/QC and automation workflows"
+  ]
+ },
+ "Cross-lingual safety alignment gap": {
+  "stream": "maya",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "English-centric safety filters fail for Russian, Hindi, Arabic; systematic bias leakage to non-English users; critical for Russian-speaking MAYA users"
+  ]
+ },
+ "Looped LLM reasoning for tool-calling": {
+  "stream": "aidan",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "DeepSeek-R1 style models outperform standard LLM on multi-step API coordination; cheaper alternative to GPT-4 for clash detection"
+  ]
+ },
+ "Personalized safety in mental-health AI": {
+  "stream": "maya",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Model-level accuracy masks individual-user failure modes; per-user monitoring and adaptation non-negotiable for vulnerable populations"
+  ]
+ },
+ "Verifier-based workflow training": {
+  "stream": "aidan",
+  "last_seen": "2026-08-20",
+  "seen_dates": [
+   "2026-08-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Machine-checkable workflows (e.g., pyRevit syntax verification) enable self-training without human oracles; cost reduction opportunity"
   ]
  }
 }
