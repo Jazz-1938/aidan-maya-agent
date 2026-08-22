@@ -37,50 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Open-source OCR models": {
-  "stream": "aidan",
-  "last_seen": "2026-06-22",
-  "seen_dates": [
-   "2026-06-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "PP-OCRv6 на HF — легкий, многоязычный, для scan-to-BIM. Протестировать ASAP."
-  ]
- },
- "AI code security": {
-  "stream": "maya",
-  "last_seen": "2026-06-22",
-  "seen_dates": [
-   "2026-06-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ",
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Daybreak/Codex Security — обязателен перед commercial launch. Риск инвестиций.",
-   "Психологические данные пользователя требуют аудита. Daybreak помогает."
-  ]
- },
- "Enterprise AI deployment": {
-  "stream": "both",
-  "last_seen": "2026-06-22",
-  "seen_dates": [
-   "2026-06-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Samsung case — валидация рынка для внутриорганизационных AI помощников."
-  ]
- },
  "Agent frameworks": {
   "stream": "aidan",
   "last_seen": "2026-06-23",
@@ -1193,7 +1149,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1207,7 +1163,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1221,7 +1177,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1235,7 +1191,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1249,7 +1205,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1263,7 +1219,7 @@
   "seen_dates": [
    "2026-07-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2361,6 +2317,48 @@
   ],
   "notes": [
    "Machine-checkable workflows (e.g., pyRevit syntax verification) enable self-training without human oracles; cost reduction opportunity"
+  ]
+ },
+ "AI agents for BIM automation": {
+  "stream": "aidan",
+  "last_seen": "2026-08-22",
+  "seen_dates": [
+   "2026-08-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Illoca + AVO показывают, что рынок готов к долгоживущим агентам в AEC; risk = конкурентное давление на generative design и automation"
+  ]
+ },
+ "Security in AI agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-22",
+  "seen_dates": [
+   "2026-08-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Revit AI и BIM automation требуют встроенной защиты от инъекций и unauthorized actions; критично для commercialization"
+  ]
+ },
+ "Energy-efficient AI infra": {
+  "stream": "aidan",
+  "last_seen": "2026-08-22",
+  "seen_dates": [
+   "2026-08-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "NVIDIA DSX MaxLPS — возможность снижения cost/request на AWS для batch LLM-работ, но требует проверки совместимости"
   ]
  }
 }
