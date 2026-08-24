@@ -6,7 +6,7 @@
    "2026-07-24",
    "2026-08-01"
   ],
-  "count_30d": 2,
+  "count_30d": 1,
   "priority_history": [
    "ВЫСОКИЙ",
    "СРЕДНИЙ",
@@ -25,7 +25,7 @@
    "2026-07-01",
    "2026-07-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ",
    "ВЫСОКИЙ",
@@ -35,90 +35,6 @@
    "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget",
    "ClawArena-Team, HASTE, hierarchical skills for workflow coordination",
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
-  ]
- },
- "Agent Orchestration & Bayesian Control": {
-  "stream": "aidan",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Cost-efficient tool selection for constrained teams; directly applicable to Revit AI and future orchestration layer"
-  ]
- },
- "Safety & Evidence-Grounding for Mental Health Advice": {
-  "stream": "maya",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Knowledge-graph verification (T2D-Bench pattern) and causal caution detection essential for vulnerable users"
-  ]
- },
- "Multimodal Verification & Traceability": {
-  "stream": "maya",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "ReMMD-style auditing for claim attribution in wellbeing context; builds user trust"
-  ]
- },
- "Multi-Agent Systems with Memory": {
-  "stream": "aidan",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "ReM-MoA pattern relevant for future AI orchestration; sustains depth scaling"
-  ]
- },
- "Personalization via Behavior Understanding": {
-  "stream": "maya",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Adaptive voice/content to user patterns; long-term retention lever"
-  ]
- },
- "KV-Cache Optimization for Cost Reduction": {
-  "stream": "aidan",
-  "last_seen": "2026-06-24",
-  "seen_dates": [
-   "2026-06-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "НИЗКИЙ"
-  ],
-  "notes": [
-   "Relevant only if shifting to self-hosted models; defer 6+ months"
   ]
  },
  "GUI-агенты с автономной оценкой": {
@@ -1191,7 +1107,7 @@
   "seen_dates": [
    "2026-07-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1205,7 +1121,7 @@
   "seen_dates": [
    "2026-07-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1219,7 +1135,7 @@
   "seen_dates": [
    "2026-07-24"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2317,6 +2233,90 @@
   ],
   "notes": [
    "NVIDIA DSX MaxLPS — возможность снижения cost/request на AWS для batch LLM-работ, но требует проверки совместимости"
+  ]
+ },
+ "MCP optimization (Nexus, tool routing)": {
+  "stream": "aidan",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "KV-cache splicing и semantic retrieval for tool selection снижают latency для Revit AI, критично для пользовательского опыта."
+  ]
+ },
+ "Agent safety and guardrails (Semantic Camouflage)": {
+  "stream": "maya",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "LLM могут быть обойдены через контекстное маскирование вредного контента. MAYA работает с психически уязвимыми — это не опция, это безопасность."
+  ]
+ },
+ "Multimodal agent architectures": {
+  "stream": "both",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Text+audio+video perception и memory orchestration — общий тренд для обоих: AIDAN (3D BIM + voice?), MAYA (voice companion)."
+  ]
+ },
+ "Skill evaluation and continuous integration for agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "ACES и similar frameworks позволяют TDD для agentic features. AIDAN накапливает skills — нужна система для QA."
+  ]
+ },
+ "Agentic memory and context management": {
+  "stream": "both",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "PrimeAgentOrchestrator, Weighted Memory Tree — долгосеансные агенты нужны лучше управления контекстом. Обе платформы имеют multi-session workflows."
+  ]
+ },
+ "Interpretability and explainability in AI": {
+  "stream": "maya",
+  "last_seen": "2026-08-24",
+  "seen_dates": [
+   "2026-08-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Пользователи mindfulness должны понимать, почему AI говорит им то или это. Interpretable models > black boxes."
   ]
  }
 }
