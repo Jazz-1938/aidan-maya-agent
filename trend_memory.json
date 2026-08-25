@@ -37,76 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "GUI-агенты с автономной оценкой": {
-  "stream": "aidan",
-  "last_seen": "2026-06-25",
-  "seen_dates": [
-   "2026-06-25"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Критично для Revit AI; позволяет обучать без ручной разметки"
-  ]
- },
- "Мультиагентная оркестрация и shared memory": {
-  "stream": "aidan",
-  "last_seen": "2026-06-25",
-  "seen_dates": [
-   "2026-06-25"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Фундамент для AI-orchestration-слоя в roadmap"
-  ]
- },
- "LLM-дистилляция для узкого домена": {
-  "stream": "aidan",
-  "last_seen": "2026-06-25",
-  "seen_dates": [
-   "2026-06-25"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Удешевление локальных моделей для BIM/IFC критично для cost-efficiency"
-  ]
- },
- "Safety и explainability в healthcare-LLM": {
-  "stream": "maya",
-  "last_seen": "2026-06-25",
-  "seen_dates": [
-   "2026-06-25"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Обязательно для mental-health-adjacent продукта; RaDaR показывает стандарты"
-  ]
- },
- "Emergent misalignment и его коррекция": {
-  "stream": "maya",
-  "last_seen": "2026-06-25",
-  "seen_dates": [
-   "2026-06-25"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Риск при дообучении на пользовательских данных; Self-Recognition метод перспективен"
-  ]
- },
  "Agent Safety Governance": {
   "stream": "aidan",
   "last_seen": "2026-06-26",
@@ -1149,7 +1079,7 @@
   "seen_dates": [
    "2026-07-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1163,7 +1093,7 @@
   "seen_dates": [
    "2026-07-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -2317,6 +2247,118 @@
   ],
   "notes": [
    "Пользователи mindfulness должны понимать, почему AI говорит им то или это. Interpretable models > black boxes."
+  ]
+ },
+ "MCP in code generation & automation": {
+  "stream": "aidan",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MCP + RAG + simulation feedback proven for robot code; directly applicable to Revit AI + orchestration layer"
+  ]
+ },
+ "RAG routing & schema-aware retrieval": {
+  "stream": "aidan",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "SchemaRouter pattern reduces tokens and latency for heterogeneous data; applicable to IFC + norms + parametric data"
+  ]
+ },
+ "Multi-turn health intervention & misinformation safety": {
+  "stream": "maya",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "RO-PnR framework (Ask vs Answer) essential for mindfulness AI in health-adjacent domain; user safety obligation"
+  ]
+ },
+ "Depression & burnout screening in AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "HiMA-MDD & RIACT show how to structure multi-level detection; needed for MAYA to safely support vulnerable users"
+  ]
+ },
+ "Dark pattern detection in AI dialogue": {
+  "stream": "maya",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AI Watchdog protocol (sycophancy, anthropomorphization, sneaking) essential safety layer for emotional-adaptive companion"
+  ]
+ },
+ "KV-cache optimization for inference cost": {
+  "stream": "aidan",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "KVBoost technique; relevant if moving to self-hosted open-source models; watch for framework integration"
+  ]
+ },
+ "Auditable memory for long-horizon agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ECHO episodic memory pattern useful for digital twins & project lifecycle workflows; v2 roadmap consideration"
+  ]
+ },
+ "Trust & provenance in knowledge graphs": {
+  "stream": "aidan",
+  "last_seen": "2026-08-25",
+  "seen_dates": [
+   "2026-08-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Composable trust (SHACL + PROV-O) applicable to BIM audit trail & compliance; enterprise feature, not MVP"
   ]
  }
 }
