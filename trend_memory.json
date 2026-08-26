@@ -37,62 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Agent Safety Governance": {
-  "stream": "aidan",
-  "last_seen": "2026-06-26",
-  "seen_dates": [
-   "2026-06-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Autoformalization + formal policy verification; Instruction Bleed as architectural risk; LeanGuard for cheap guardrails"
-  ]
- },
- "Ethical AI Reasoning": {
-  "stream": "maya",
-  "last_seen": "2026-06-26",
-  "seen_dates": [
-   "2026-06-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Narration-of-Thought for defeasible reasoning; provenance tracking for mental-health advice; safety-first messaging"
-  ]
- },
- "Agentic Workflow Optimization": {
-  "stream": "aidan",
-  "last_seen": "2026-06-26",
-  "seen_dates": [
-   "2026-06-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "SKILL-DISCO for procedural reuse; reduces token cost and latency"
-  ]
- },
- "Evidence-Grounded Wellbeing Claims": {
-  "stream": "maya",
-  "last_seen": "2026-06-26",
-  "seen_dates": [
-   "2026-06-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Uncertainty estimation in performance metrics; required for credibility and regulatory compliance"
-  ]
- },
  "Agent memory and persistence": {
   "stream": "aidan",
   "last_seen": "2026-06-27",
@@ -2359,6 +2303,76 @@
   ],
   "notes": [
    "Composable trust (SHACL + PROV-O) applicable to BIM audit trail & compliance; enterprise feature, not MVP"
+  ]
+ },
+ "Agent coordination & orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-08-26",
+  "seen_dates": [
+   "2026-08-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AgentRoom + MARS показывают, что специализированные параллельные агенты масштабируют лучше, чем один universal. Применимо к automation layer."
+  ]
+ },
+ "Model safety in mental-health context": {
+  "stream": "maya",
+  "last_seen": "2026-08-26",
+  "seen_dates": [
+   "2026-08-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Gated Activation Steering + SyPS выявили критические уязвимости: сикофания и нестабильность. Обязательно адресировать до масштабирования."
+  ]
+ },
+ "KV cache optimization for long contexts": {
+  "stream": "aidan",
+  "last_seen": "2026-08-26",
+  "seen_dates": [
+   "2026-08-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Minima-KV даёт 30-50% экономию памяти. На AWS-инфре это прямое снижение затрат на production."
+  ]
+ },
+ "Memory selectivity in reasoning": {
+  "stream": "maya",
+  "last_seen": "2026-08-26",
+  "seen_dates": [
+   "2026-08-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Избыток контекста мешает рассуждению. Важно для mindfulness: личные рекомендации требуют новой логики, не шаблонов."
+  ]
+ },
+ "Reasoning decomposition for complex domains": {
+  "stream": "aidan",
+  "last_seen": "2026-08-26",
+  "seen_dates": [
+   "2026-08-26"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Recursive Agentic Reasoning (GROW/PRUNE/BRANCH) даёт унифицированный фреймворк. Применить к clash detection и code checking."
   ]
  }
 }
