@@ -37,104 +37,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Agent memory and persistence": {
-  "stream": "aidan",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Long-running workflows need parametric memory + retrieval (AIDAN orchestration layer)"
-  ]
- },
- "Knowledge integration during inference": {
-  "stream": "aidan",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "KARLA-like methods reduce API cost and enable offline compliance checking"
-  ]
- },
- "Cost optimization via semantic early-stopping": {
-  "stream": "aidan",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Multi-agent loops need intelligent halting; direct token/cost savings"
-  ]
- },
- "Psychological safety in companion AI": {
-  "stream": "maya",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "De-escalation, compassion preservation under post-training, non-assertive tone"
-  ]
- },
- "Digital twins for personalization": {
-  "stream": "maya",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Behavioral modeling via conversation patterns for user-specific support"
-  ]
- },
- "Values degradation in post-training": {
-  "stream": "maya",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Standard RLHF may harm mindfulness/compassion; needs custom training"
-  ]
- },
- "Agent task-sensitivity and instruction-following": {
-  "stream": "aidan",
-  "last_seen": "2026-06-27",
-  "seen_dates": [
-   "2026-06-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Automation workflows need robust instruction understanding; test on diverse BIM contexts"
-  ]
- },
  "Agent-Native Security": {
   "stream": "aidan",
   "last_seen": "2026-06-29",
@@ -1051,7 +953,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1065,7 +967,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1079,7 +981,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1093,7 +995,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1107,7 +1009,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1121,7 +1023,7 @@
   "seen_dates": [
    "2026-07-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2373,6 +2275,62 @@
   ],
   "notes": [
    "Recursive Agentic Reasoning (GROW/PRUNE/BRANCH) даёт унифицированный фреймворк. Применить к clash detection и code checking."
+  ]
+ },
+ "Multi-turn agentic RAG optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-08-27",
+  "seen_dates": [
+   "2026-08-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MetaRAG, OODA-Tool, handoff cost — все указывают на задачу оптимизации многоходовых агентов; прямо применимо к вашему roadmap'у"
+  ]
+ },
+ "Context compression for code/BIM agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-27",
+  "seen_dates": [
+   "2026-08-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Paritok, compression trinity — сокращение стоимости токенов становится срочным, особенно для Revit AI в конкурентной среде"
+  ]
+ },
+ "Safety evaluation frameworks for reasoning models": {
+  "stream": "maya",
+  "last_seen": "2026-08-27",
+  "seen_dates": [
+   "2026-08-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "TRACE, RePolicy, dual-judge — безопасность рассуждений (не только outputs) становится baseline requirement; критично для mental-health adjacent приложений"
+  ]
+ },
+ "Personality-aware agent robustness": {
+  "stream": "maya",
+  "last_seen": "2026-08-27",
+  "seen_dates": [
+   "2026-08-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AgentWorld, voice-agent benchmarking — нужно тестировать на разных типах пользователей, не на среднем случае"
   ]
  }
 }
