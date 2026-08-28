@@ -1037,7 +1037,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1051,7 +1051,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1065,7 +1065,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1079,7 +1079,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1093,7 +1093,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1107,7 +1107,7 @@
   "seen_dates": [
    "2026-07-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2331,6 +2331,90 @@
   ],
   "notes": [
    "AgentWorld, voice-agent benchmarking — нужно тестировать на разных типах пользователей, не на среднем случае"
+  ]
+ },
+ "MCP and tool-calling agents": {
+  "stream": "aidan",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Hardware design automation via MCP validates Revit AI architecture; local models viable for production workflows"
+  ]
+ },
+ "Long-horizon agent architectures": {
+  "stream": "aidan",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "SKILL.state and harness design are critical for scaling clash detection and Revit automation over complex models"
+  ]
+ },
+ "Safety-gated AI for mental health": {
+  "stream": "maya",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Anian architecture (structured state + conservative risk fusion) is production-ready and directly applicable to MAYA"
+  ]
+ },
+ "Confident fabrication in LLMs": {
+  "stream": "maya",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Models hallucinate signals where none exist; requires calibrated uncertainty and negative-control training for MAYA"
+  ]
+ },
+ "Persona stability in LLM-HRI": {
+  "stream": "maya",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Structured prompting and explicit boundary-setting critical for trust and retention in mindfulness companions"
+  ]
+ },
+ "IFC/OpenBIM standard evolution": {
+  "stream": "aidan",
+  "last_seen": "2026-08-28",
+  "seen_dates": [
+   "2026-08-28"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "IFCX modularisation advances; watch for Revit/ArchiCAD adoption timeline"
   ]
  }
 }
