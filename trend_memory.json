@@ -22,7 +22,6 @@
   "stream": "aidan",
   "last_seen": "2026-07-24",
   "seen_dates": [
-   "2026-07-01",
    "2026-07-24"
   ],
   "count_30d": 0,
@@ -35,76 +34,6 @@
    "INFRAMIND pattern for cost-aware routing; infra-aware scheduling critical for lean budget",
    "ClawArena-Team, HASTE, hierarchical skills for workflow coordination",
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
-  ]
- },
- "Iterative refinement and reflection": {
-  "stream": "aidan",
-  "last_seen": "2026-07-01",
-  "seen_dates": [
-   "2026-07-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Contrastive reflection for prompt optimization, ReGRPO for tool failure recovery"
-  ]
- },
- "Solver-grounded code generation": {
-  "stream": "aidan",
-  "last_seen": "2026-07-01",
-  "seen_dates": [
-   "2026-07-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Embodied CAD pattern directly applicable to IFC generation with validation"
-  ]
- },
- "Feedback effectiveness in agents": {
-  "stream": "aidan",
-  "last_seen": "2026-07-01",
-  "seen_dates": [
-   "2026-07-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Understanding when feedback improves vs. artifacts; critical for hybrid workflows"
-  ]
- },
- "User preference construction": {
-  "stream": "maya",
-  "last_seen": "2026-07-01",
-  "seen_dates": [
-   "2026-07-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Beyond elicitation—teaching domain knowledge first, then personalization"
-  ]
- },
- "Selective memory updates": {
-  "stream": "maya",
-  "last_seen": "2026-07-01",
-  "seen_dates": [
-   "2026-07-01"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Janus-style memory control for long-lived companions avoiding forgetting and overfitting"
   ]
  },
  "Agent orchestration & safety": {
@@ -1107,7 +1036,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1121,7 +1050,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1135,7 +1064,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1149,7 +1078,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1163,7 +1092,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1177,7 +1106,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1191,7 +1120,7 @@
   "seen_dates": [
    "2026-07-31"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
