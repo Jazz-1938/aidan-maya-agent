@@ -2219,5 +2219,75 @@
   "notes": [
    "False negatives in complex health-adjacent content curation; human-in-the-loop required if using LLM for knowledge assembly."
   ]
+ },
+ "Agent-memory-synchronization": {
+  "stream": "aidan",
+  "last_seen": "2026-09-04",
+  "seen_dates": [
+   "2026-09-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "PlanFence и управление состоянием критичны для многоагентной оркестрации в BIM"
+  ]
+ },
+ "LLM-tool-execution-speedup": {
+  "stream": "aidan",
+  "last_seen": "2026-09-04",
+  "seen_dates": [
+   "2026-09-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Speculative Macro Commit прямо снизит latency в инструментальных цепочках"
+  ]
+ },
+ "Safety-and-narrative-bias": {
+  "stream": "maya",
+  "last_seen": "2026-09-04",
+  "seen_dates": [
+   "2026-09-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Narrative captivity грозит дать неправильный совет в контексте психического здоровья"
+  ]
+ },
+ "Evidence-grounding-for-claims": {
+  "stream": "maya",
+  "last_seen": "2026-09-04",
+  "seen_dates": [
+   "2026-09-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Provenance Density и HalluPeer метрики для верификации медитация-рекомендаций"
+  ]
+ },
+ "Value-preservation-in-agents": {
+  "stream": "maya",
+  "last_seen": "2026-09-04",
+  "seen_dates": [
+   "2026-09-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Архитектурные гарантии приватности и справедливости для работы с уязвимыми пользователями"
+  ]
  }
 }
