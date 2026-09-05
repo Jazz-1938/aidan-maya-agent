@@ -2289,5 +2289,89 @@
   "notes": [
    "Архитектурные гарантии приватности и справедливости для работы с уязвимыми пользователями"
   ]
+ },
+ "IFC Standard Evolution": {
+  "stream": "aidan",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "IFC 4.4 ISO voting passed (50-4), modularisation approved. Parser adaptation needed in Q4 2026, mandatory adoption Q1 2027."
+  ]
+ },
+ "Code Hallucinations & Groundedness": {
+  "stream": "aidan",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LLM code generation reliability issue. Guardrails required for Revit AI; distinguish spec-based vs learned assertions."
+  ]
+ },
+ "Prompt Optimization (Compound Constraints)": {
+  "stream": "aidan",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Format+persona+urgency interact non-additively. Systematic testing can improve reliability 10-15% for BIM queries."
+  ]
+ },
+ "Agent Requirements Volatility": {
+  "stream": "aidan",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Requirements emerge during implementation, not before. Affects Revit AI and orchestration layer; needs iterative architecture."
+  ]
+ },
+ "Test Oracle Authority": {
+  "stream": "aidan",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "LLM-written assertions need grounding traceability (spec vs training data). QA/QC in BIM requires audit trail."
+  ]
+ },
+ "Quality of Life Positioning": {
+  "stream": "maya",
+  "last_seen": "2026-09-05",
+  "seen_dates": [
+   "2026-09-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Longevity discourse shifted from lifespan to wellbeing. MAYA should emphasize present-moment flourishing, not medical intervention."
+  ]
  }
 }
