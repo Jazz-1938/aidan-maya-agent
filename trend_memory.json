@@ -36,90 +36,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Multi-Agent Orchestration": {
-  "stream": "aidan",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "SwarmResearch показывает, как избежать локального минимума в агентных системах; напрямую для AI orchestration layer в roadmap"
-  ]
- },
- "Agent Memory & Environment Models": {
-  "stream": "aidan",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "OCM и PLACEMEM решают проблему грязной памяти; актуально для persistent BIM assistant и digital twins"
-  ]
- },
- "Constructive Safety in Mental Health AI": {
-  "stream": "maya",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Oyster-II показывает, как помогать, а не блокировать; essential для доверия в mindfulness companion"
-  ]
- },
- "Temporal & Emotional Adaptation": {
-  "stream": "maya",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Conversational timing + personalization benchmarks; ключно для detection и appropriate intervention"
-  ]
- },
- "Self-Evolving Agents": {
-  "stream": "aidan",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "HASE демонстрирует self-improvement; экспериментально, но интересно для дешёвых моделей (Qwen вместо GPT)"
-  ]
- },
- "Calibrated Human-AI Trust": {
-  "stream": "maya",
-  "last_seen": "2026-07-07",
-  "seen_dates": [
-   "2026-07-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Reflective architecture для правильной калибровки доверия пользователя; UX-критично для mental health"
-  ]
- },
  "Agentic LLM control & orchestration": {
   "stream": "aidan",
   "last_seen": "2026-07-13",
@@ -1134,7 +1050,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1148,7 +1064,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1162,7 +1078,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1176,7 +1092,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1190,7 +1106,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1204,7 +1120,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1218,7 +1134,7 @@
   "seen_dates": [
    "2026-08-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
