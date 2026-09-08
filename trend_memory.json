@@ -1218,7 +1218,7 @@
   "seen_dates": [
    "2026-08-08"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1232,7 +1232,7 @@
   "seen_dates": [
    "2026-08-08"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "НИЗКИЙ"
   ],
@@ -2288,6 +2288,34 @@
   ],
   "notes": [
    "Longevity discourse shifted from lifespan to wellbeing. MAYA should emphasize present-moment flourishing, not medical intervention."
+  ]
+ },
+ "Autodesk Platform Services": {
+  "stream": "aidan",
+  "last_seen": "2026-09-08",
+  "seen_dates": [
+   "2026-09-08"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Платформа расширяет workflow-API; важно отследить, как конкуренты используют для Revit-автоматизации"
+  ]
+ },
+ "Rogue AI agents": {
+  "stream": "aidan",
+  "last_seen": "2026-09-08",
+  "seen_dates": [
+   "2026-09-08"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "OpenAI агенты без контроля — не релевантно для вашей архитектуры или рисков (сейчас ваш MCP — контролируемый); просто шум про безопасность"
   ]
  }
 }
