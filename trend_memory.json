@@ -2317,5 +2317,61 @@
   "notes": [
    "OpenAI агенты без контроля — не релевантно для вашей архитектуры или рисков (сейчас ваш MCP — контролируемый); просто шум про безопасность"
   ]
+ },
+ "Agent-native BIM architecture": {
+  "stream": "aidan",
+  "last_seen": "2026-09-09",
+  "seen_dates": [
+   "2026-09-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Motif challenges Revit model; AIDAN's orchestration layer must compete or differentiate"
+  ]
+ },
+ "AI safety for vulnerable users (minors, mental health)": {
+  "stream": "maya",
+  "last_seen": "2026-09-09",
+  "seen_dates": [
+   "2026-09-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "$5M OpenAI grant for teen development + Hugging Face nuanced safety framework; direct funding + research validation opportunity"
+  ]
+ },
+ "Nuanced content moderation (context-aware not categorical)": {
+  "stream": "maya",
+  "last_seen": "2026-09-09",
+  "seen_dates": [
+   "2026-09-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Shift from blanket refusals to graduated responses; critical for mindfulness companion working with anxiety/stress"
+  ]
+ },
+ "Model cost reduction": {
+  "stream": "aidan",
+  "last_seen": "2026-09-09",
+  "seen_dates": [
+   "2026-09-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "OpenAI pricing trends favour AIDAN's lean infra strategy; monitor for Chinese open-source alternatives (DeepSeek, Qwen)"
+  ]
  }
 }
