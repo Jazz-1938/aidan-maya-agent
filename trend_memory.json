@@ -36,62 +36,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Agent safety and isolation in production systems": {
-  "stream": "maya",
-  "last_seen": "2026-07-15",
-  "seen_dates": [
-   "2026-07-15"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Critical for mental-health-adjacent systems; multiple papers on prompt injection, tool misuse, logging"
-  ]
- },
- "Evidence-grounding for medical/health AI": {
-  "stream": "maya",
-  "last_seen": "2026-07-15",
-  "seen_dates": [
-   "2026-07-15"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Clinical systems require data-backed claims; MAYA needs longitudinal tracking of user wellbeing"
-  ]
- },
- "Small models for on-device emotional reasoning": {
-  "stream": "maya",
-  "last_seen": "2026-07-15",
-  "seen_dates": [
-   "2026-07-15"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Multimodal emotion <1B models enable privacy-preserving voice/video adaptation"
-  ]
- },
- "Human-AI neuroplasticity and interaction design": {
-  "stream": "maya",
-  "last_seen": "2026-07-15",
-  "seen_dates": [
-   "2026-07-15"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Frequent interactions reshape user behavior; risk of dependency if not carefully designed"
-  ]
- },
  "Agent Memory & State Management": {
   "stream": "aidan",
   "last_seen": "2026-07-16",
@@ -1218,7 +1162,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1232,7 +1176,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1246,7 +1190,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1260,7 +1204,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1274,7 +1218,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1288,7 +1232,7 @@
   "seen_dates": [
    "2026-08-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
