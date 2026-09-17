@@ -1162,7 +1162,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1176,7 +1176,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1190,7 +1190,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1204,7 +1204,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1218,7 +1218,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1232,7 +1232,7 @@
   "seen_dates": [
    "2026-08-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2120,6 +2120,76 @@
   ],
   "notes": [
    "OpenAI pricing trends favour AIDAN's lean infra strategy; monitor for Chinese open-source alternatives (DeepSeek, Qwen)"
+  ]
+ },
+ "AI companion memory & personalization": {
+  "stream": "maya",
+  "last_seen": "2026-09-17",
+  "seen_dates": [
+   "2026-09-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Geometric memory and heterogeneous preferences for mindfulness adaptation"
+  ]
+ },
+ "Emotion recognition & cost efficiency": {
+  "stream": "maya",
+  "last_seen": "2026-09-17",
+  "seen_dates": [
+   "2026-09-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Hybrid confidence-gated LLM calling for mental-health-adjacent apps"
+  ]
+ },
+ "Safety evidence acquisition in LLMs": {
+  "stream": "maya",
+  "last_seen": "2026-09-17",
+  "seen_dates": [
+   "2026-09-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Critical for mindfulness companion to query context before risky advice"
+  ]
+ },
+ "Agentic AI orchestration & workflows": {
+  "stream": "both",
+  "last_seen": "2026-09-17",
+  "seen_dates": [
+   "2026-09-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Multi-step agent reasoning, tool use, verification — applicable to both BIM automation and AI companion workflows"
+  ]
+ },
+ "RAG cost-quality tradeoffs": {
+  "stream": "maya",
+  "last_seen": "2026-09-17",
+  "seen_dates": [
+   "2026-09-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Relevant if MAYA scales to knowledge-grounded mindfulness training"
   ]
  }
 }
