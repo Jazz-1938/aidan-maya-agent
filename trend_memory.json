@@ -36,90 +36,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "Multimodal BIM understanding (construction drawings)": {
-  "stream": "aidan",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "DrawingVQA benchmark показывает gap в MLLM capability на реальных чертежах — напрямую влияет на качество Revit AI и BIM assistant"
-  ]
- },
- "Hybrid neuro-symbolic compliance checking": {
-  "stream": "aidan",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Small local model + deterministic rules дешевле и надежнее для нормативной работы (LEED, IBC, СНиП) — важно для compliance roadmap"
-  ]
- },
- "AI-to-AI safety and escalation control": {
-  "stream": "maya",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Multi-agent coercion/deception benchmark — критично если MAYA будет иметь внешние интеграции; уязвимая аудитория требует strict controls"
-  ]
- },
- "Empathy as dynamic repair in dialogue": {
-  "stream": "maya",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Переопределение эмпатии через predictive misalignment tolerance — это ключ для mindful companion, отличает от generic chatbot'ов"
-  ]
- },
- "User agency and transparency in recommendations": {
-  "stream": "maya",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Для wellbeing-приложения обязательна видимость в модель пользователя и его контроль (filter-bubble prevention)"
-  ]
- },
- "Multi-modal orchestration patterns (JSON planning + typed agents)": {
-  "stream": "aidan",
-  "last_seen": "2026-07-20",
-  "seen_dates": [
-   "2026-07-20"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "AnovaX и Knowledge-Centric Agents показывают архитектуру для reliable multi-agent workflows; применима к AI orchestration layer"
-  ]
- },
  "LLM agent memory & long-context reasoning": {
   "stream": "maya",
   "last_seen": "2026-07-21",
@@ -1246,7 +1162,7 @@
   "seen_dates": [
    "2026-08-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1260,7 +1176,7 @@
   "seen_dates": [
    "2026-08-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1274,7 +1190,7 @@
   "seen_dates": [
    "2026-08-19"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -2190,6 +2106,48 @@
   ],
   "notes": [
    "Relevant if MAYA scales to knowledge-grounded mindfulness training"
+  ]
+ },
+ "LLM inference benchmarking": {
+  "stream": "aidan",
+  "last_seen": "2026-09-19",
+  "seen_dates": [
+   "2026-09-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AIPerf for cost-per-inference comparison; directly impacts model selection for Revit AI and hybrid RAG"
+  ]
+ },
+ "Mindfulness and body acceptance": {
+  "stream": "maya",
+  "last_seen": "2026-09-19",
+  "seen_dates": [
+   "2026-09-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "User pain point (aging, grief) aligned with MBSR; safety-gated opportunity for companion content"
+  ]
+ },
+ "AI safety youth guidelines": {
+  "stream": "maya",
+  "last_seen": "2026-09-19",
+  "seen_dates": [
+   "2026-09-19"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Relevant only if expanding to <18 demographic; monitor for evolving standards"
   ]
  }
 }
