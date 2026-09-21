@@ -36,90 +36,6 @@
    "ATM, workload-aware caching, autonomous topology mutation — ключевые для AI-orchestration layer и снижения инженерных затрат"
   ]
  },
- "agent_reliability_orchestration": {
-  "stream": "aidan",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Phionyx, AgentDebugX, SAAG, BatchDAG — весь стек для надежных multi-turn BIM workflows"
-  ]
- },
- "specialized_guardrails_mlh": {
-  "stream": "maya",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Fence, SciHazard scoring — дешевые специализированные guardrails для vulnerable domains"
-  ]
- },
- "safety_drift_longrunning_agents": {
-  "stream": "both",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Operational Hallucination paper показывает реальный риск для production agents"
-  ]
- },
- "skill_discovery_routing": {
-  "stream": "aidan",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "SkillSight, ToolDNS — когда инструментов много, нужен robust discovery"
-  ]
- },
- "emotional_grounding_ai_companions": {
-  "stream": "maya",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Semantic primes, Evidence-Chain Eval — для honest emotion understanding in companions"
-  ]
- },
- "evidence_aware_factchecking": {
-  "stream": "maya",
-  "last_seen": "2026-07-22",
-  "seen_dates": [
-   "2026-07-22"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "ECE позволяет companion сказать 'не знаю' вместо угадывания — критично для trust"
-  ]
- },
  "Safe code generation": {
   "stream": "aidan",
   "last_seen": "2026-07-24",
@@ -2078,6 +1994,76 @@
   ],
   "notes": [
    "Relevant only if expanding to <18 demographic; monitor for evolving standards"
+  ]
+ },
+ "LLM reasoning and verification": {
+  "stream": "both",
+  "last_seen": "2026-09-21",
+  "seen_dates": [
+   "2026-09-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "множество работ по улучшению логики CoT (LogicTrack, CaLR, Clinician QA), но нет прямого применения к AIDAN; для MAYA — потенциал в проверке корректности mindfulness-советов"
+  ]
+ },
+ "Agent evaluation in production": {
+  "stream": "aidan",
+  "last_seen": "2026-09-21",
+  "seen_dates": [
+   "2026-09-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "EnterpriseVal, Efficient Benchmarking, LEGIT — как оценивать агентов на реальных данных; AIDAN нужно следить за методологией для Revit AI QA"
+  ]
+ },
+ "Memory and personalization in conversational AI": {
+  "stream": "maya",
+  "last_seen": "2026-09-21",
+  "seen_dates": [
+   "2026-09-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AutoViewMem, DENSE, RAVEL — структурированная память и retrieval для长型разговоров; критично для MAYA персонализации и контекстной поддержки"
+  ]
+ },
+ "Multimodal and speech interaction": {
+  "stream": "maya",
+  "last_seen": "2026-09-21",
+  "seen_dates": [
+   "2026-09-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ReACT-TTS, World Modeling в трансформерах; будущее для MAYA с голосом/видео, но не срочно в текущей фазе Telegram"
+  ]
+ },
+ "Cost-efficient LLM acceleration": {
+  "stream": "aidan",
+  "last_seen": "2026-09-21",
+  "seen_dates": [
+   "2026-09-21"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "L0-MoE, TinyCeNN-LM, RBS-Attention — удешевление инференса и ускорение моделей; AIDAN должна следить за MoE и sparse-attention для локального/edge deployment"
   ]
  }
 }
