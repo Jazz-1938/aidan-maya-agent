@@ -1134,7 +1134,7 @@
   "seen_dates": [
    "2026-08-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1148,7 +1148,7 @@
   "seen_dates": [
    "2026-08-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1162,7 +1162,7 @@
   "seen_dates": [
    "2026-08-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2064,6 +2064,62 @@
   ],
   "notes": [
    "L0-MoE, TinyCeNN-LM, RBS-Attention — удешевление инференса и ускорение моделей; AIDAN должна следить за MoE и sparse-attention для локального/edge deployment"
+  ]
+ },
+ "community-aligned mental-health AI": {
+  "stream": "maya",
+  "last_seen": "2026-09-22",
+  "seen_dates": [
+   "2026-09-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "fine-tuning на реальном опыте, не медицинских фактах — критично для доверия"
+  ]
+ },
+ "authenticity in AI dialogue": {
+  "stream": "maya",
+  "last_seen": "2026-09-22",
+  "seen_dates": [
+   "2026-09-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "имитация сочувствия недостаточна; нужна подлинная адаптивность"
+  ]
+ },
+ "cultural value alignment": {
+  "stream": "maya",
+  "last_seen": "2026-09-22",
+  "seen_dates": [
+   "2026-09-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "GPT-models могут отдавать предпочтение западным ценностям; нужна проверка для русскоязычной базы"
+  ]
+ },
+ "AI trust and transparency": {
+  "stream": "maya",
+  "last_seen": "2026-09-22",
+  "seen_dates": [
+   "2026-09-22"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "пользователи больше доверяют человеку-эксперту, чем AI — важна ясная позиция MAYA"
   ]
  }
 }
