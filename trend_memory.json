@@ -1171,7 +1171,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1185,7 +1185,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1199,7 +1199,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1213,7 +1213,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1227,7 +1227,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1241,7 +1241,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1255,7 +1255,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1269,7 +1269,7 @@
   "seen_dates": [
    "2026-08-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2031,6 +2031,90 @@
   ],
   "notes": [
    "пользователи больше доверяют человеку-эксперту, чем AI — важна ясная позиция MAYA"
+  ]
+ },
+ "open-source multimodal models (Pistis, Qwen)": {
+  "stream": "aidan",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "локализация дорогих API-вызовов, важно для затрат"
+  ]
+ },
+ "RL для multi-turn agents (SLCA-GRPO, IDRL)": {
+  "stream": "aidan",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "обучение Revit AI с правильным credit assignment"
+  ]
+ },
+ "agent memory & belief tracking (TWIST, Scope Before You Persist)": {
+  "stream": "aidan",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "долгосрочная надёжность multi-step workflow"
+  ]
+ },
+ "user simulation & conversation continuity (TRACER)": {
+  "stream": "maya",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "тестирование adaptation к эволюции состояния пользователя"
+  ]
+ },
+ "safety in privileged information (self-distillation gotchas)": {
+  "stream": "maya",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "критично для mental-health adjacent систем"
+  ]
+ },
+ "contextual personalization": {
+  "stream": "maya",
+  "last_seen": "2026-09-25",
+  "seen_dates": [
+   "2026-09-25"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "точность рекомендаций в разных контекстах"
   ]
  }
 }
