@@ -17,90 +17,6 @@
    "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
- "Agent memory & context optimization": {
-  "stream": "aidan",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "SF-AMS, TokenMem, MIITA address context explosion in long-running workflows; direct relevance to AIDAN orchestration layer"
-  ]
- },
- "Schema-aware RAG & knowledge graphs": {
-  "stream": "aidan",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "SCAIR, HyCE-RAG, Structure Over Scale show shift from vector-only to schema-constrained retrieval; IFC-graph native"
-  ]
- },
- "Cheap evaluation & QA distillation": {
-  "stream": "aidan",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Codifying the Judge, Program Distillation reduce cost of iterative LLM evaluation; fits AIDAN's lean ops"
-  ]
- },
- "Long-context personalization & memory": {
-  "stream": "maya",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "MedLoCoMo, SF-AMS, PrefMoE collapse — critical for MAYA companion to retain user history & avoid averaging"
-  ]
- },
- "Multi-LLM orchestration & cost-latency tradeoff": {
-  "stream": "aidan",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Opti-Q, HeraSys, DynaResize optimize resource allocation in multi-model serving; AIDAN may need this for Revit + backend scale"
-  ]
- },
- "LLM model compression & efficiency": {
-  "stream": "aidan",
-  "last_seen": "2026-07-28",
-  "seen_dates": [
-   "2026-07-28"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "TriSP, Multi-Objective Pruning, MM-ShiftKV target edge/embedded inference; cheaper than cloud for Revit plugin"
-  ]
- },
  "Agent Operating Systems": {
   "stream": "aidan",
   "last_seen": "2026-07-29",
@@ -1269,7 +1185,7 @@
   "seen_dates": [
    "2026-08-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1283,7 +1199,7 @@
   "seen_dates": [
    "2026-08-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1297,7 +1213,7 @@
   "seen_dates": [
    "2026-08-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1311,7 +1227,7 @@
   "seen_dates": [
    "2026-08-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
