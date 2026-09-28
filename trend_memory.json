@@ -17,76 +17,6 @@
    "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
- "Agent Operating Systems": {
-  "stream": "aidan",
-  "last_seen": "2026-07-29",
-  "seen_dates": [
-   "2026-07-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "MCP и стандартизация агентных интерфейсов — тренд, критичен для Revit AI дизайна"
-  ]
- },
- "Open multilingual models": {
-  "stream": "aidan",
-  "last_seen": "2026-07-29",
-  "seen_dates": [
-   "2026-07-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Qwen3 и открытые модели безопаснее для многоязычных систем; релевантно для Казахстана"
-  ]
- },
- "RAG cost optimization": {
-  "stream": "aidan",
-  "last_seen": "2026-07-29",
-  "seen_dates": [
-   "2026-07-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Zero-ingestion RAG может удешевить инфраструктуру AIDAN"
-  ]
- },
- "AI wellbeing & safety": {
-  "stream": "maya",
-  "last_seen": "2026-07-29",
-  "seen_dates": [
-   "2026-07-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Психологические риски AI companions — обязательный audit для MAYA"
-  ]
- },
- "Structured agentic healthcare": {
-  "stream": "maya",
-  "last_seen": "2026-07-29",
-  "seen_dates": [
-   "2026-07-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Модель PATHFinder (context → plan → resources) применима к mindfulness workflows"
-  ]
- },
  "Agent code generation & snippet versioning": {
   "stream": "aidan",
   "last_seen": "2026-07-31",
@@ -1241,7 +1171,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1255,7 +1185,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1269,7 +1199,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1283,7 +1213,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1297,7 +1227,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1311,7 +1241,7 @@
   "seen_dates": [
    "2026-08-28"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
