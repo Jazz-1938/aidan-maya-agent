@@ -1255,7 +1255,7 @@
   "seen_dates": [
    "2026-08-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1269,7 +1269,7 @@
   "seen_dates": [
    "2026-08-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1283,7 +1283,7 @@
   "seen_dates": [
    "2026-08-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1297,7 +1297,7 @@
   "seen_dates": [
    "2026-08-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1311,7 +1311,7 @@
   "seen_dates": [
    "2026-08-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1877,6 +1877,62 @@
   ],
   "notes": [
    "точность рекомендаций в разных контекстах"
+  ]
+ },
+ "LLM evaluation reliability": {
+  "stream": "maya",
+  "last_seen": "2026-09-29",
+  "seen_dates": [
+   "2026-09-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Cross-model divergence (52% correlation) threatens assessment accuracy in mental health. Need calibration or ensemble."
+  ]
+ },
+ "AI safety monitoring evasion": {
+  "stream": "maya",
+  "last_seen": "2026-09-29",
+  "seen_dates": [
+   "2026-09-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Monitor Jailbreaking shows chain-of-thought monitors are bypassable. Verify human oversight and logging."
+  ]
+ },
+ "Multi-agent CBT workflows": {
+  "stream": "maya",
+  "last_seen": "2026-09-29",
+  "seen_dates": [
+   "2026-09-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MACBT validates multi-agent + memory architecture for structured therapy. Reference for MAYA teacher-training design."
+  ]
+ },
+ "Conversation state mutability": {
+  "stream": "maya",
+  "last_seen": "2026-09-29",
+  "seen_dates": [
+   "2026-09-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Mutable Transcripts improve user experience and contextual accuracy in dynamic interactions."
   ]
  }
 }
