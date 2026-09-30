@@ -17,104 +17,6 @@
    "Long-context performance directly impacts interactive BIM workflows; NVIDIA advances in attention mechanisms reduce latency for document-heavy systems"
   ]
  },
- "Agent code generation & snippet versioning": {
-  "stream": "aidan",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "LLM agents can track repair history and reuse solutions across sessions; relevant for Revit AI and cost optimization"
-  ]
- },
- "Evaluation inflation in benchmarks": {
-  "stream": "aidan",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Published eval scores misleading at scale; critical for choosing cheap models (DeepSeek, Qwen)"
-  ]
- },
- "Domain-specific agent rules (GuideSkill, GoGoTB pattern)": {
-  "stream": "aidan",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Compile domain rules into constraint functions; applicable to compliance checking and clash detection"
-  ]
- },
- "LLM bias toward vulnerable groups": {
-  "stream": "maya",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Mental health adjacent work requires active bias auditing; safety non-negotiable"
-  ]
- },
- "Hierarchical user understanding in companions": {
-  "stream": "maya",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Inferring abstract user traits (not just facts) improves retention and personalization"
-  ]
- },
- "Evidence-grounding for health claims": {
-  "stream": "maya",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Companion advice must cite sources; hallucinated claims are harmful in mental health context"
-  ]
- },
- "LLM safety realignment against fine-tuning attacks": {
-  "stream": "maya",
-  "last_seen": "2026-07-31",
-  "seen_dates": [
-   "2026-07-31"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "If teacher training involves customization, need template-robust guards"
-  ]
- },
  "AI model commoditization & pricing": {
   "stream": "aidan",
   "last_seen": "2026-08-01",
@@ -1933,6 +1835,48 @@
   ],
   "notes": [
    "Mutable Transcripts improve user experience and contextual accuracy in dynamic interactions."
+  ]
+ },
+ "AI safety in mental-health-adjacent systems": {
+  "stream": "maya",
+  "last_seen": "2026-09-30",
+  "seen_dates": [
+   "2026-09-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Papers #11, #39 expose concrete failure modes in emotional AI: need safety gates and escalation protocols"
+  ]
+ },
+ "Multi-agent orchestration for specialized domains": {
+  "stream": "aidan",
+  "last_seen": "2026-09-30",
+  "seen_dates": [
+   "2026-09-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Papers #7, #20 show multi-agent team scaling is task-dependent; relevance unclear without BIM-specific benchmarks"
+  ]
+ },
+ "Costs & inference speedup for edge/resource-constrained models": {
+  "stream": "aidan",
+  "last_seen": "2026-09-30",
+  "seen_dates": [
+   "2026-09-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Paper #2 (neurosymbolic routing) is relevant if AIDAN moves to edge deployment; currently unclear if this is on roadmap"
   ]
  }
 }
