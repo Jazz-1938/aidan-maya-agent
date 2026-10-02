@@ -1818,5 +1818,103 @@
   "notes": [
    "Paper #2 (neurosymbolic routing) is relevant if AIDAN moves to edge deployment; currently unclear if this is on roadmap"
   ]
+ },
+ "Agent Harnesses & Verification": {
+  "stream": "aidan",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Praxa, ContractRL, и другие — production agents нужны guardrails. MCP + safety-focused design становятся стандартом."
+  ]
+ },
+ "SLM vs LLM Cost Trade-off": {
+  "stream": "aidan",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Малые модели (Qwen, DeepSeek) справляются с микротасками. Для startups с лимитом budget — критично тестировать hybrid approaches."
+  ]
+ },
+ "Memory & Personalization in Long-Horizon Agents": {
+  "stream": "maya",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Долгие companions (многие сессии) нужны smart retention + retrieval. Heavy tails и context-sufficiency — ключевые для UX."
+  ]
+ },
+ "User-Safety in Mental-Health AI": {
+  "stream": "maya",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Backdoors, graceful degradation, верификация feedback — не опция, obligation для mindfulness companions."
+  ]
+ },
+ "BIM-Specific AI Agents": {
+  "stream": "aidan",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Build2SPARQL показывает растущий спрос на domain-specific agents для зданий. Текст-в-запрос за языковый интерфейс."
+  ]
+ },
+ "AI in Revit & OpenBIM": {
+  "stream": "aidan",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Lumion Axogram — сигнал: рынок ждёт live-model AI tools. Конкурент монетизирует. Timing важен."
+  ]
+ },
+ "Cheap Capable Models (Qwen, DeepSeek)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-02",
+  "seen_dates": [
+   "2026-10-02"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "China open-source models зреют. Для Kazakhstan/Central Asia BIM это может быть стратегическое преимущество (лучше чем US API)."
+  ]
  }
 }
