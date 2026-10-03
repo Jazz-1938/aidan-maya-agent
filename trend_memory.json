@@ -1,74 +1,4 @@
 {
- "Agent architecture & orchestration": {
-  "stream": "aidan",
-  "last_seen": "2026-08-03",
-  "seen_dates": [
-   "2026-08-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Multi-layer inference/orchestration/execution separation critical for AIDAN roadmap"
-  ]
- },
- "Tool specification safety": {
-  "stream": "aidan",
-  "last_seen": "2026-08-03",
-  "seen_dates": [
-   "2026-08-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Weak tool schemas undermine model safety; critical for Revit MCP before commercialization"
-  ]
- },
- "AI companion persona stability": {
-  "stream": "maya",
-  "last_seen": "2026-08-03",
-  "seen_dates": [
-   "2026-08-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Long-horizon persona collapse observed empirically; MAYA must address before scaling users"
-  ]
- },
- "AI safety in high-stakes domains": {
-  "stream": "maya",
-  "last_seen": "2026-08-03",
-  "seen_dates": [
-   "2026-08-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "LLM-driven decisions in mental health require explicit safety boundaries, not just capability"
-  ]
- },
- "Agent evaluation methodology": {
-  "stream": "aidan",
-  "last_seen": "2026-08-03",
-  "seen_dates": [
-   "2026-08-03"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Beyond unit tests; need trajectory-level validation for clash detection & automation workflows"
-  ]
- },
  "MCP tool-selection robustness": {
   "stream": "aidan",
   "last_seen": "2026-08-06",
@@ -1915,6 +1845,62 @@
   ],
   "notes": [
    "China open-source models зреют. Для Kazakhstan/Central Asia BIM это может быть стратегическое преимущество (лучше чем US API)."
+  ]
+ },
+ "agentic-3d-modelling": {
+  "stream": "aidan",
+  "last_seen": "2026-10-03",
+  "seen_dates": [
+   "2026-10-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Formas.AI Cartesian — прямой конкурент на roadmap, нужно отслеживать темп и архитектуру"
+  ]
+ },
+ "GPT-6-production-patterns": {
+  "stream": "aidan",
+  "last_seen": "2026-10-03",
+  "seen_dates": [
+   "2026-10-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Потенциал для оптимизации companion-assistant и IFC-workflow, требует бенчмарка vs Gemini"
+  ]
+ },
+ "AI-companion-safety": {
+  "stream": "maya",
+  "last_seen": "2026-10-03",
+  "seen_dates": [
+   "2026-10-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Mental-health adjacent требует постоянного внимания к safety и ethics, GPT-6 не изменяет обязательства"
+  ]
+ },
+ "enterprise-ai-investment-growth": {
+  "stream": "both",
+  "last_seen": "2026-10-03",
+  "seen_dates": [
+   "2026-10-03"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Макро-сигнал, не специфичен для стартапов"
   ]
  }
 }
