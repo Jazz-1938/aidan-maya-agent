@@ -1902,5 +1902,33 @@
   "notes": [
    "Макро-сигнал, не специфичен для стартапов"
   ]
+ },
+ "Agent verification & outcome validation": {
+  "stream": "aidan",
+  "last_seen": "2026-10-04",
+  "seen_dates": [
+   "2026-10-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Critical for orchestration layer and AI-Revit automation reliability"
+  ]
+ },
+ "Agent memory & state integrity": {
+  "stream": "maya",
+  "last_seen": "2026-10-04",
+  "seen_dates": [
+   "2026-10-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "User safety issue: companion must accurately track user state for mental health context"
+  ]
  }
 }
