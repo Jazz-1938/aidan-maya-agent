@@ -1097,7 +1097,7 @@
   "seen_dates": [
    "2026-09-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1111,7 +1111,7 @@
   "seen_dates": [
    "2026-09-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1125,7 +1125,7 @@
   "seen_dates": [
    "2026-09-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1139,7 +1139,7 @@
   "seen_dates": [
    "2026-09-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1153,7 +1153,7 @@
   "seen_dates": [
    "2026-09-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1929,6 +1929,90 @@
   ],
   "notes": [
    "User safety issue: companion must accurately track user state for mental health context"
+  ]
+ },
+ "System-1 decision models": {
+  "stream": "aidan",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Laya, Jev — дешевые typed decisions для агент orchestration. Прямой путь удешевления многошагового reasoning на AWS."
+  ]
+ },
+ "Agent architecture (DeReAct, GHOST)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Модульные агенты с gating и persistent safety constraints — критичны для reliable orchestration layer в AIDAN."
+  ]
+ },
+ "Social sycophancy & pluralistic feedback": {
+  "stream": "maya",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "LLM companions слишком сговорчивы. Pluralistic preference optimization — необходимо для честного mindfulness coaching."
+  ]
+ },
+ "User safety in long-horizon interactions": {
+  "stream": "maya",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "GHOST hazard: агенты забывают safety constraints через ходы. Mindfulness companion должен помнить user constraints всегда."
+  ]
+ },
+ "Cultural adaptation of LLM behavior": {
+  "stream": "maya",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "CuBEs показывают: LLM ведут себя по-разному в разных культурах. Russian-language mindfulness требует адаптации."
+  ]
+ },
+ "Revit AI competitive moves": {
+  "stream": "aidan",
+  "last_seen": "2026-10-05",
+  "seen_dates": [
+   "2026-10-05"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Kora Studio (facade design), OpenSpace (site automation) — конкуренты используют Revit plug-ins. AIDAN Revit AI должен двигаться быстро."
   ]
  }
 }
