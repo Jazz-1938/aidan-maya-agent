@@ -1,74 +1,4 @@
 {
- "Agent Orchestration & Failure Diagnosis": {
-  "stream": "aidan",
-  "last_seen": "2026-08-07",
-  "seen_dates": [
-   "2026-08-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Agentic Nesting + OrchestraBench определяют архитектуру многоагентных BIM-систем и диагностику отказов. Критично для AI-orchestration roadmap."
-  ]
- },
- "Economic Decision-Making in Agents": {
-  "stream": "aidan",
-  "last_seen": "2026-08-07",
-  "seen_dates": [
-   "2026-08-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "EcoAgent-Bench: стратегический выбор между дешёвым локальным анализом и дорогим LLM-вызовом. Решает проблему cost-efficiency для AWS-infra с ограниченным бюджетом."
-  ]
- },
- "Skill Reuse & Auditing": {
-  "stream": "aidan",
-  "last_seen": "2026-08-07",
-  "seen_dates": [
-   "2026-08-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "SkillTrace: для Revit AI marketplace нужна система версионирования и аудита skills. Растущая проблема по мере масштабирования."
-  ]
- },
- "AI Safety in Mental Health Contexts": {
-  "stream": "maya",
-  "last_seen": "2026-08-07",
-  "seen_dates": [
-   "2026-08-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Sycophancy detection + Epistemic Trustworthiness: MAYA работает с уязвимыми пользователями. Вредный совет от AI-companion может иметь серьёзные последствия. Safety = mandatory."
-  ]
- },
- "Pedagogical Personalization": {
-  "stream": "maya",
-  "last_seen": "2026-08-07",
-  "seen_dates": [
-   "2026-08-07"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "PSI метрика + LUNAR: персонализация mindfulness-обучения к уровню практики пользователя. Ключ к retention и релевантности."
-  ]
- },
  "AI pedagogy and intervention timing": {
   "stream": "maya",
   "last_seen": "2026-08-08",
@@ -1971,6 +1901,90 @@
   ],
   "notes": [
    "Cupix движется в lifecycle management; AIDAN должен готовиться к этому тренду, но это будущее"
+  ]
+ },
+ "Revit AI + QA/QC Integration": {
+  "stream": "aidan",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Pirros уже в production; конкурентное давление на Revit AI roadmap AIDAN"
+  ]
+ },
+ "AI Orchestration & Workflow Planning": {
+  "stream": "aidan",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "TopoPlanner & agent frameworks; relevant для clash detection & BIM automation layer"
+  ]
+ },
+ "LLM Safety & Role Internalization": {
+  "stream": "maya",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "SSRFT для mental-health AI; критично для user safety в vulnerable population"
+  ]
+ },
+ "Agent Memory Reliability": {
+  "stream": "both",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Risks of partial-overlap retrieval; AIDAN (BIM context preservation) и MAYA (user context) оба уязвимы"
+  ]
+ },
+ "Expert Verification in AI Content": {
+  "stream": "maya",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Study shows pre-verification reduces equity gaps; applicable к MAYA mindfulness content"
+  ]
+ },
+ "Vision AI for AEC": {
+  "stream": "aidan",
+  "last_seen": "2026-10-07",
+  "seen_dates": [
+   "2026-10-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Buildcheck $12M signals investor interest; tangential но monitoring useful"
   ]
  }
 }
