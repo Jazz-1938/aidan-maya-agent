@@ -1,32 +1,4 @@
 {
- "AI pedagogy and intervention timing": {
-  "stream": "maya",
-  "last_seen": "2026-08-08",
-  "seen_dates": [
-   "2026-08-08"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "TutorMoments research on when AI should help vs. hold back; relevant for mindfulness companion guidance calibration"
-  ]
- },
- "AI model security and safeguards": {
-  "stream": "maya",
-  "last_seen": "2026-08-08",
-  "seen_dates": [
-   "2026-08-08"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "НИЗКИЙ"
-  ],
-  "notes": [
-   "OpenAI Astra cybersecurity evaluation; background signal for external API dependencies but no immediate action"
-  ]
- },
  "MCP architecture for automation": {
   "stream": "aidan",
   "last_seen": "2026-08-11",
@@ -1985,6 +1957,48 @@
   ],
   "notes": [
    "Buildcheck $12M signals investor interest; tangential но monitoring useful"
+  ]
+ },
+ "Multi-agent orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-10-08",
+  "seen_dates": [
+   "2026-10-08"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "DeOrch и LOGIC показывают pattern; ждём production implementations"
+  ]
+ },
+ "LLM memory safety (sycophancy, speculation)": {
+  "stream": "maya",
+  "last_seen": "2026-10-08",
+  "seen_dates": [
+   "2026-10-08"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AgentMemGate + memory-gate defenses — прямо в MAYA roadmap безопасности"
+  ]
+ },
+ "Agent evaluation standards": {
+  "stream": "aidan",
+  "last_seen": "2026-10-08",
+  "seen_dates": [
+   "2026-10-08"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "EIO-Agents [37] — интересно для compliance, но рано для AIDAN pre-production"
   ]
  }
 }
