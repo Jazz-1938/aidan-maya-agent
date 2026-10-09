@@ -1055,7 +1055,7 @@
   "seen_dates": [
    "2026-09-08"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1069,7 +1069,7 @@
   "seen_dates": [
    "2026-09-08"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "НИЗКИЙ"
   ],
@@ -1999,6 +1999,62 @@
   ],
   "notes": [
    "EIO-Agents [37] — интересно для compliance, но рано для AIDAN pre-production"
+  ]
+ },
+ "LLM agent safety & narrative jailbreaks": {
+  "stream": "maya",
+  "last_seen": "2026-10-09",
+  "seen_dates": [
+   "2026-10-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "90%+ success rate on refusal bypass via narrative wrappers; MAYA users are vulnerable; need defense before scaling"
+  ]
+ },
+ "Persistent memory in AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-10-09",
+  "seen_dates": [
+   "2026-10-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Risk of context leakage and sycophancy; MAYA roadmap includes 'mindful OS' with memory — must design governance now"
+  ]
+ },
+ "Human-centered AI ethics (ambiguity acceptance)": {
+  "stream": "maya",
+  "last_seen": "2026-10-09",
+  "seen_dates": [
+   "2026-10-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Mental health is inherently ambiguous; no single ground truth; MAYA must embrace this, not force labels"
+  ]
+ },
+ "Agentic planning & tool orchestration (generic)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-09",
+  "seen_dates": [
+   "2026-10-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Much academic work on agent planning, but no BIM-specific signal; not actionable for AIDAN roadmap yet"
   ]
  }
 }
