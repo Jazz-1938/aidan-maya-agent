@@ -1083,7 +1083,7 @@
   "seen_dates": [
    "2026-09-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1097,7 +1097,7 @@
   "seen_dates": [
    "2026-09-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1111,7 +1111,7 @@
   "seen_dates": [
    "2026-09-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1125,7 +1125,7 @@
   "seen_dates": [
    "2026-09-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2055,6 +2055,48 @@
   ],
   "notes": [
    "Much academic work on agent planning, but no BIM-specific signal; not actionable for AIDAN roadmap yet"
+  ]
+ },
+ "GPU infrastructure cost optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-10-10",
+  "seen_dates": [
+   "2026-10-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "cluster scheduling directly reduces AWS spend for RAG/AI ops"
+  ]
+ },
+ "AI safety & refusal reliability": {
+  "stream": "maya",
+  "last_seen": "2026-10-10",
+  "seen_dates": [
+   "2026-10-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "mental-health companion must have reliable safety checks; built-in model refusals are insufficient"
+  ]
+ },
+ "emotional personalization in AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-10-10",
+  "seen_dates": [
+   "2026-10-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "social bonding research suggests trust-based adaptation improves wellbeing outcomes"
   ]
  }
 }
