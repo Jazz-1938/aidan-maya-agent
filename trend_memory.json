@@ -2042,5 +2042,75 @@
   "notes": [
    "Hexagon-Rocscience merge: следить за IFC/OpenBIM позицией"
   ]
+ },
+ "Agent orchestration & routing": {
+  "stream": "aidan",
+  "last_seen": "2026-10-13",
+  "seen_dates": [
+   "2026-10-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Competence-aware dispatch для многоагентных систем—направить в AI-orchestration layer AIDAN."
+  ]
+ },
+ "Privacy-preserving long-context inference": {
+  "stream": "maya",
+  "last_seen": "2026-10-13",
+  "seen_dates": [
+   "2026-10-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "DP-MIND решает приватность психиатрического контекста—критично для health-adjacent applications."
+  ]
+ },
+ "Engineering feasibility verification for generative design": {
+  "stream": "aidan",
+  "last_seen": "2026-10-13",
+  "seen_dates": [
+   "2026-10-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "VIGOR показывает способ проверять не только синтаксис (IFC valid), но и инженерную корректность (нет столкновений, соблюдены стандарты)."
+  ]
+ },
+ "Agent safety & compositional failure detection": {
+  "stream": "maya",
+  "last_seen": "2026-10-13",
+  "seen_dates": [
+   "2026-10-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "X-AgentRed для red-teaming персональных интеграций—необходимо для долгосрочной безопасности."
+  ]
+ },
+ "Process quality in agent training": {
+  "stream": "aidan",
+  "last_seen": "2026-10-13",
+  "seen_dates": [
+   "2026-10-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "TQS для оценки качества траекторий автоматизации—избежать техдолга в Revit AI."
+  ]
  }
 }
