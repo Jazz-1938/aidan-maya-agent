@@ -1,88 +1,4 @@
 {
- "Agent Memory & Persistence": {
-  "stream": "aidan",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "MindMemOS + Governed Persistent Memory для orchestration layer и long-context BIM workflows"
-  ]
- },
- "LLM Safety under Pressure": {
-  "stream": "maya",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "IntegrityBench + moral alignment divergence — validate before scaling"
-  ]
- },
- "Language-Dependent Safety Drift": {
-  "stream": "maya",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Russian-language models may have different safety profiles; urgent validation needed"
-  ]
- },
- "Constrained Decoding for Domain Vocabularies": {
-  "stream": "aidan",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Trie Automata для справочников BIM; снижение latency"
-  ]
- },
- "Skill Misevolution in Self-Improving Agents": {
-  "stream": "maya",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Practice Makes Unsafe — validate feedback loops don't amplify harmful patterns"
-  ]
- },
- "Evidence-Grounded Reasoning": {
-  "stream": "maya",
-  "last_seen": "2026-08-14",
-  "seen_dates": [
-   "2026-08-14"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "ReflectFact for mental health fact-checking; integrate into health recommendations"
-  ]
- },
  "MCP agent infrastructure": {
   "stream": "aidan",
   "last_seen": "2026-08-17",
@@ -2111,6 +2027,76 @@
   ],
   "notes": [
    "TQS для оценки качества траекторий автоматизации—избежать техдолга в Revit AI."
+  ]
+ },
+ "on-device LLM": {
+  "stream": "aidan",
+  "last_seen": "2026-10-14",
+  "seen_dates": [
+   "2026-10-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "LFM2.5 и Gemma для приватных вычислений укрепляют тренд; AIDAN должна план для локальной обработки BIM-данных"
+  ]
+ },
+ "open-source AI models": {
+  "stream": "aidan",
+  "last_seen": "2026-10-14",
+  "seen_dates": [
+   "2026-10-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Liquid AI, open Gemma, NVIDIA open-sourcing указывают на дешевление; актуально для cost-efficiency в AIDAN"
+  ]
+ },
+ "AI companion safety": {
+  "stream": "maya",
+  "last_seen": "2026-10-14",
+  "seen_dates": [
+   "2026-10-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Berkeley статья показывает реальный риск зависимости от AI; MAYA must design for psychological safety, не только technical"
+  ]
+ },
+ "Gemini 4 Argon adoption": {
+  "stream": "aidan",
+  "last_seen": "2026-10-14",
+  "seen_dates": [
+   "2026-10-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "новая версия для сложных инженерных задач; нужен быстрый тест на BIM use-cases"
+  ]
+ },
+ "mental health AI boundaries": {
+  "stream": "maya",
+  "last_seen": "2026-10-14",
+  "seen_dates": [
+   "2026-10-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "какие guardrails нужны для mindfulness companion, чтобы не подменять живой контакт; требует research + user testing"
   ]
  }
 }
