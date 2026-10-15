@@ -2098,5 +2098,89 @@
   "notes": [
    "какие guardrails нужны для mindfulness companion, чтобы не подменять живой контакт; требует research + user testing"
   ]
+ },
+ "Agent-native architectures (Motif vs traditional BIM)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Market shift toward agent-first design, direct competitor pressure"
+  ]
+ },
+ "MCP metadata & tool selection": {
+  "stream": "aidan",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Critical for orchestration layer; affects AIDAN AI Assistant accuracy"
+  ]
+ },
+ "Cost-efficient inference: LLM→SLM distillation": {
+  "stream": "aidan",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Direct path to AWS cost reduction; Qwen/DeepSeek fit"
+  ]
+ },
+ "AI sycophancy in healthcare/caregiver contexts": {
+  "stream": "maya",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Safety obligation for mental-health-adjacent systems"
+  ]
+ },
+ "Multilevel memory & personalization for AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Psychological grounding + safety; needed for retention & evidence"
+  ]
+ },
+ "Streaming voice & tool cancellation": {
+  "stream": "maya",
+  "last_seen": "2026-10-15",
+  "seen_dates": [
+   "2026-10-15"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Future voice feature risk; irreversible actions in voice context"
+  ]
  }
 }
