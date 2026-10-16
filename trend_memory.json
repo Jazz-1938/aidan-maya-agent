@@ -2182,5 +2182,75 @@
   "notes": [
    "Future voice feature risk; irreversible actions in voice context"
   ]
+ },
+ "Agent Runtime Safety & Intervention": {
+  "stream": "aidan",
+  "last_seen": "2026-10-16",
+  "seen_dates": [
+   "2026-10-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "ARIA, StepSafe, RAC — методы для безопасной работы агентов в constraints-governed задачах (BIM, engineering). Критично для reliability clash-detection и Revit AI."
+  ]
+ },
+ "Agent Memory Evolution & Adaptation": {
+  "stream": "aidan",
+  "last_seen": "2026-10-16",
+  "seen_dates": [
+   "2026-10-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MemComposer, MemScope, AiO-Mem — adaptive memory для агентов. Прямая применимость к multi-turn BIM workflows и долгосрочным проектам."
+  ]
+ },
+ "Agent Safety for Vulnerable Users": {
+  "stream": "maya",
+  "last_seen": "2026-10-16",
+  "seen_dates": [
+   "2026-10-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "StepSafe, CNRF — early intervention и risk calibration. Mental-health companion требует step-level safety, не просто post-hoc filtering."
+  ]
+ },
+ "Constraint-Satisfied Task Execution": {
+  "stream": "aidan",
+  "last_seen": "2026-10-16",
+  "seen_dates": [
+   "2026-10-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "RAC, IneqAgent — гарантированное выполнение constraint-governed tasks. Для BIM: параметрические правила, нормы, сметы."
+  ]
+ },
+ "Agent Evaluation in Dynamic Environments": {
+  "stream": "aidan",
+  "last_seen": "2026-10-16",
+  "seen_dates": [
+   "2026-10-16"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "RealtimeBench, AlphaDiana — оценка агентов под real-time constraints. Для scan-to-BIM, live clash detection требуется быстрое решение."
+  ]
  }
 }
