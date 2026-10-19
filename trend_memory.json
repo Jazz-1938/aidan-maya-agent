@@ -1,46 +1,4 @@
 {
- "Agent Runtime Governance": {
-  "stream": "maya",
-  "last_seen": "2026-08-19",
-  "seen_dates": [
-   "2026-08-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Aegis-паттерн для безопасной валидации действий перед выполнением — критично для психологического AI"
-  ]
- },
- "Memory & State Classification Audit": {
-  "stream": "maya",
-  "last_seen": "2026-08-19",
-  "seen_dates": [
-   "2026-08-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Explicit audit-протокол выявляет hallucinated memory — необходимо тестировать на MAYA"
-  ]
- },
- "BIM-specific Agents & MCP": {
-  "stream": "aidan",
-  "last_seen": "2026-08-19",
-  "seen_dates": [
-   "2026-08-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Ждём публикаций по agentам для построительства и OpenBIM; много generic agent-фреймворков, но для BIM нет"
-  ]
- },
  "Multi-agent concurrency control": {
   "stream": "aidan",
   "last_seen": "2026-08-20",
