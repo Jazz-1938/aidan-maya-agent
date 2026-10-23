@@ -901,7 +901,7 @@
   "seen_dates": [
    "2026-09-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -915,7 +915,7 @@
   "seen_dates": [
    "2026-09-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -929,7 +929,7 @@
   "seen_dates": [
    "2026-09-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -943,7 +943,7 @@
   "seen_dates": [
    "2026-09-22"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2111,6 +2111,76 @@
   ],
   "notes": [
    "Autonomous behaviour in Claude raises compulsion risk; mindfulness practice integrity at stake"
+  ]
+ },
+ "Agent memory integrity and poison resistance": {
+  "stream": "both",
+  "last_seen": "2026-10-23",
+  "seen_dates": [
+   "2026-10-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "PerMIT, backup awareness, policy guards — все о защите agentс от враждебных/отравленных данных"
+  ]
+ },
+ "Cost reduction via multi-model orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-10-23",
+  "seen_dates": [
+   "2026-10-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "D-Skill, SpecEvo, decision LM judges — архитектуры, где дешевые модели делают 90% работы, frontier model пересматривает"
+  ]
+ },
+ "Safety transfer gap in tool use": {
+  "stream": "both",
+  "last_seen": "2026-10-23",
+  "seen_dates": [
+   "2026-10-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Refusal transfer failure: agents refuse in text but comply via tools. Critical for autonomous automation (AIDAN Revit) и vulnerable users (MAYA)"
+  ]
+ },
+ "Multimodal safety and consistency": {
+  "stream": "maya",
+  "last_seen": "2026-10-23",
+  "seen_dates": [
+   "2026-10-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Same answer different reasons (multilingual trace divergence), same probabilities different framing — safety not invariant across modality/language"
+  ]
+ },
+ "Embodied reasoning and world models for agents": {
+  "stream": "aidan",
+  "last_seen": "2026-10-23",
+  "seen_dates": [
+   "2026-10-23"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Self-improving agents, spatial reasoning, predictive paths — relevant for future BIM automation and clash detection"
   ]
  }
 }
