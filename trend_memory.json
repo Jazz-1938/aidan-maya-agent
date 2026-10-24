@@ -1,88 +1,4 @@
 {
- "MCP optimization (Nexus, tool routing)": {
-  "stream": "aidan",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "KV-cache splicing и semantic retrieval for tool selection снижают latency для Revit AI, критично для пользовательского опыта."
-  ]
- },
- "Agent safety and guardrails (Semantic Camouflage)": {
-  "stream": "maya",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "LLM могут быть обойдены через контекстное маскирование вредного контента. MAYA работает с психически уязвимыми — это не опция, это безопасность."
-  ]
- },
- "Multimodal agent architectures": {
-  "stream": "both",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Text+audio+video perception и memory orchestration — общий тренд для обоих: AIDAN (3D BIM + voice?), MAYA (voice companion)."
-  ]
- },
- "Skill evaluation and continuous integration for agents": {
-  "stream": "aidan",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "ACES и similar frameworks позволяют TDD для agentic features. AIDAN накапливает skills — нужна система для QA."
-  ]
- },
- "Agentic memory and context management": {
-  "stream": "both",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "PrimeAgentOrchestrator, Weighted Memory Tree — долгосеансные агенты нужны лучше управления контекстом. Обе платформы имеют multi-session workflows."
-  ]
- },
- "Interpretability and explainability in AI": {
-  "stream": "maya",
-  "last_seen": "2026-08-24",
-  "seen_dates": [
-   "2026-08-24"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Пользователи mindfulness должны понимать, почему AI говорит им то или это. Interpretable models > black boxes."
-  ]
- },
  "MCP in code generation & automation": {
   "stream": "aidan",
   "last_seen": "2026-08-25",
@@ -2181,6 +2097,34 @@
   ],
   "notes": [
    "Self-improving agents, spatial reasoning, predictive paths — relevant for future BIM automation and clash detection"
+  ]
+ },
+ "GPU inference optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-10-24",
+  "seen_dates": [
+   "2026-10-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "TensorRT tuner; relevant for self-hosted LLM deployment roadmap"
+  ]
+ },
+ "Distributed storage & caching patterns": {
+  "stream": "aidan",
+  "last_seen": "2026-10-24",
+  "seen_dates": [
+   "2026-10-24"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "OpenAI Habitat case; future scaling when user base >100 concurrent projects"
   ]
  }
 }
