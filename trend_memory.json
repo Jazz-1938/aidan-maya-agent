@@ -1,74 +1,4 @@
 {
- "Agent coordination & orchestration": {
-  "stream": "aidan",
-  "last_seen": "2026-08-26",
-  "seen_dates": [
-   "2026-08-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "AgentRoom + MARS показывают, что специализированные параллельные агенты масштабируют лучше, чем один universal. Применимо к automation layer."
-  ]
- },
- "Model safety in mental-health context": {
-  "stream": "maya",
-  "last_seen": "2026-08-26",
-  "seen_dates": [
-   "2026-08-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Gated Activation Steering + SyPS выявили критические уязвимости: сикофания и нестабильность. Обязательно адресировать до масштабирования."
-  ]
- },
- "KV cache optimization for long contexts": {
-  "stream": "aidan",
-  "last_seen": "2026-08-26",
-  "seen_dates": [
-   "2026-08-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Minima-KV даёт 30-50% экономию памяти. На AWS-инфре это прямое снижение затрат на production."
-  ]
- },
- "Memory selectivity in reasoning": {
-  "stream": "maya",
-  "last_seen": "2026-08-26",
-  "seen_dates": [
-   "2026-08-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Избыток контекста мешает рассуждению. Важно для mindfulness: личные рекомендации требуют новой логики, не шаблонов."
-  ]
- },
- "Reasoning decomposition for complex domains": {
-  "stream": "aidan",
-  "last_seen": "2026-08-26",
-  "seen_dates": [
-   "2026-08-26"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Recursive Agentic Reasoning (GROW/PRUNE/BRANCH) даёт унифицированный фреймворк. Применить к clash detection и code checking."
-  ]
- },
  "Multi-turn agentic RAG optimization": {
   "stream": "aidan",
   "last_seen": "2026-08-27",
@@ -761,7 +691,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -775,7 +705,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -789,7 +719,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -803,7 +733,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -817,7 +747,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -831,7 +761,7 @@
   "seen_dates": [
    "2026-09-25"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
