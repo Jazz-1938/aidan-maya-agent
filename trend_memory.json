@@ -1,60 +1,4 @@
 {
- "Multi-turn agentic RAG optimization": {
-  "stream": "aidan",
-  "last_seen": "2026-08-27",
-  "seen_dates": [
-   "2026-08-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "MetaRAG, OODA-Tool, handoff cost — все указывают на задачу оптимизации многоходовых агентов; прямо применимо к вашему roadmap'у"
-  ]
- },
- "Context compression for code/BIM agents": {
-  "stream": "aidan",
-  "last_seen": "2026-08-27",
-  "seen_dates": [
-   "2026-08-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Paritok, compression trinity — сокращение стоимости токенов становится срочным, особенно для Revit AI в конкурентной среде"
-  ]
- },
- "Safety evaluation frameworks for reasoning models": {
-  "stream": "maya",
-  "last_seen": "2026-08-27",
-  "seen_dates": [
-   "2026-08-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "TRACE, RePolicy, dual-judge — безопасность рассуждений (не только outputs) становится baseline requirement; критично для mental-health adjacent приложений"
-  ]
- },
- "Personality-aware agent robustness": {
-  "stream": "maya",
-  "last_seen": "2026-08-27",
-  "seen_dates": [
-   "2026-08-27"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "AgentWorld, voice-agent benchmarking — нужно тестировать на разных типах пользователей, не на среднем случае"
-  ]
- },
  "MCP and tool-calling agents": {
   "stream": "aidan",
   "last_seen": "2026-08-28",
@@ -1943,6 +1887,90 @@
   ],
   "notes": [
    "OpenAI Habitat case; future scaling when user base >100 concurrent projects"
+  ]
+ },
+ "Graph-based RAG for technical standards": {
+  "stream": "aidan",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "GEMS-RAG directly applicable to norm/compliance checking in BIM; multimodal standard retrieval is core unbuilt capability"
+  ]
+ },
+ "Efficient agent orchestration (plan vs. step-by-step)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "AgentOrch relevant to AI-orchestration-layer roadmap; cost-efficient workflow generation without quality loss"
+  ]
+ },
+ "LLM memory safety and consistency": {
+  "stream": "maya",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "ConMem + MemAlign benchmark critical for user safety in long-term mindfulness companion; prevents therapeutic harm from misaligned memory"
+  ]
+ },
+ "Error persistence in AI-generated content cycles": {
+  "stream": "maya",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "When MAYA advice cycles back into training or teacher curricula, systematic errors propagate; wellbeing-adjacent content must be audited"
+  ]
+ },
+ "Data governance and GDPR/local compliance": {
+  "stream": "maya",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Russian/Kazakhstan mental-health data requires strict handling; must build compliance framework before scaling"
+  ]
+ },
+ "Open-source model quantization for edge deployment": {
+  "stream": "aidan",
+  "last_seen": "2026-10-27",
+  "seen_dates": [
+   "2026-10-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "RAQ-MLA enables cheaper local inference for DeepSeek/Qwen on AWS; reduces cost of BIM-AI operations"
   ]
  }
 }
