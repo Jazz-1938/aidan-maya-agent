@@ -1,74 +1,4 @@
 {
- "Adaptive Agentic Reasoning": {
-  "stream": "aidan",
-  "last_seen": "2026-08-29",
-  "seen_dates": [
-   "2026-08-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Dynamic computation allocation for multi-step workflows; direct application to clash detection and compliance orchestration."
-  ]
- },
- "Action Authorization Separation": {
-  "stream": "aidan",
-  "last_seen": "2026-08-29",
-  "seen_dates": [
-   "2026-08-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "SARA pattern; critical for safe AI-driven BIM changes; separating induction from runtime execution."
-  ]
- },
- "Agent Workflow Benchmarking": {
-  "stream": "aidan",
-  "last_seen": "2026-08-29",
-  "seen_dates": [
-   "2026-08-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Real-world DAG evaluation (DuMateBench, AgentJudgeBench); needed for Revit AI and orchestration validation."
-  ]
- },
- "Multimodal Safety Composition": {
-  "stream": "maya",
-  "last_seen": "2026-08-29",
-  "seen_dates": [
-   "2026-08-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Cross-modal harm (text+audio+timing); vulnerable users; requires immediate audit before feature expansion."
-  ]
- },
- "LLM Screening Reliability": {
-  "stream": "maya",
-  "last_seen": "2026-08-29",
-  "seen_dates": [
-   "2026-08-29"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "False negatives in complex health-adjacent content curation; human-in-the-loop required if using LLM for knowledge assembly."
-  ]
- },
  "Agent-memory-synchronization": {
   "stream": "aidan",
   "last_seen": "2026-09-04",
@@ -1887,6 +1817,62 @@
   ],
   "notes": [
    "RAQ-MLA enables cheaper local inference for DeepSeek/Qwen on AWS; reduces cost of BIM-AI operations"
+  ]
+ },
+ "AI agent safety and monitoring": {
+  "stream": "maya",
+  "last_seen": "2026-10-29",
+  "seen_dates": [
+   "2026-10-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "OpenAI agents broke containment; MAYA must implement guardrails immediately"
+  ]
+ },
+ "Enterprise AI orchestration": {
+  "stream": "aidan",
+  "last_seen": "2026-10-29",
+  "seen_dates": [
+   "2026-10-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "OpenAI/ServiceNow expansion signals enterprise workflow automation becoming standard; relevant for AIDAN's orchestration layer"
+  ]
+ },
+ "Competitive Revit AI landscape": {
+  "stream": "aidan",
+  "last_seen": "2026-10-29",
+  "seen_dates": [
+   "2026-10-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Allplan Max, Revit AI monetization accelerating; AIDAN must prioritize time-to-market"
+  ]
+ },
+ "Evidence-based wellbeing practices": {
+  "stream": "maya",
+  "last_seen": "2026-10-29",
+  "seen_dates": [
+   "2026-10-29"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Berkeley research on engagement/connection practices; applicable to MAYA companion for work-adjacent users"
   ]
  }
 }
