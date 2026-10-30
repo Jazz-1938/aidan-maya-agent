@@ -565,7 +565,7 @@
   "seen_dates": [
    "2026-09-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -579,7 +579,7 @@
   "seen_dates": [
    "2026-09-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -593,7 +593,7 @@
   "seen_dates": [
    "2026-09-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -607,7 +607,7 @@
   "seen_dates": [
    "2026-09-29"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1873,6 +1873,62 @@
   ],
   "notes": [
    "Berkeley research on engagement/connection practices; applicable to MAYA companion for work-adjacent users"
+  ]
+ },
+ "Competitive BIM agents (Snaptrude)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-30",
+  "seen_dates": [
+   "2026-10-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Рынок AI-агентов для BIM активирован. Urgency на roadmap возросла. Нужен быстрый competitive response."
+  ]
+ },
+ "Open-source LLM efficiency (Granite, Qwen alternatives)": {
+  "stream": "aidan",
+  "last_seen": "2026-10-30",
+  "seen_dates": [
+   "2026-10-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Self-hosted модели становятся практичнее; важно для geografically dispersed teams и cost-efficiency."
+  ]
+ },
+ "AI safety and alignment monitoring": {
+  "stream": "maya",
+  "last_seen": "2026-10-30",
+  "seen_dates": [
+   "2026-10-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Mental-health-adjacent product требует robust detection misalignment и harmful outputs. OpenAI-овский подход — benchmark."
+  ]
+ },
+ "Eating disorders and AI recommendations": {
+  "stream": "maya",
+  "last_seen": "2026-10-30",
+  "seen_dates": [
+   "2026-10-30"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "GLP-1 boom создает vulnerable user cohort с ED-risk. MAYA должна распознавать и не усугублять."
   ]
  }
 }
