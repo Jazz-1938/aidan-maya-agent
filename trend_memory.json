@@ -1,74 +1,4 @@
 {
- "Agent-memory-synchronization": {
-  "stream": "aidan",
-  "last_seen": "2026-09-04",
-  "seen_dates": [
-   "2026-09-04"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "PlanFence и управление состоянием критичны для многоагентной оркестрации в BIM"
-  ]
- },
- "LLM-tool-execution-speedup": {
-  "stream": "aidan",
-  "last_seen": "2026-09-04",
-  "seen_dates": [
-   "2026-09-04"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Speculative Macro Commit прямо снизит latency в инструментальных цепочках"
-  ]
- },
- "Safety-and-narrative-bias": {
-  "stream": "maya",
-  "last_seen": "2026-09-04",
-  "seen_dates": [
-   "2026-09-04"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Narrative captivity грозит дать неправильный совет в контексте психического здоровья"
-  ]
- },
- "Evidence-grounding-for-claims": {
-  "stream": "maya",
-  "last_seen": "2026-09-04",
-  "seen_dates": [
-   "2026-09-04"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Provenance Density и HalluPeer метрики для верификации медитация-рекомендаций"
-  ]
- },
- "Value-preservation-in-agents": {
-  "stream": "maya",
-  "last_seen": "2026-09-04",
-  "seen_dates": [
-   "2026-09-04"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "Архитектурные гарантии приватности и справедливости для работы с уязвимыми пользователями"
-  ]
- },
  "IFC Standard Evolution": {
   "stream": "aidan",
   "last_seen": "2026-09-05",
@@ -817,7 +747,7 @@
   "seen_dates": [
    "2026-10-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -831,7 +761,7 @@
   "seen_dates": [
    "2026-10-04"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1929,6 +1859,48 @@
   ],
   "notes": [
    "GLP-1 boom создает vulnerable user cohort с ED-risk. MAYA должна распознавать и не усугублять."
+  ]
+ },
+ "AI skills for AEC tools (Revit, AutoCAD)": {
+  "stream": "aidan",
+  "last_seen": "2026-11-04",
+  "seen_dates": [
+   "2026-11-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Autom8Labs и OpenAI движутся в сторону AI-driven automation в инженерии. Подтверждает ваш Revit AI roadmap, но конкуренция уже в поле."
+  ]
+ },
+ "Long-context language model reliability": {
+  "stream": "aidan",
+  "last_seen": "2026-11-04",
+  "seen_dates": [
+   "2026-11-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "StateBench и потребность в моделях, которые не забывают контекст при работе с полными BIM проектами. DeepSeek/Qwen testing нужен."
+  ]
+ },
+ "Mental health AI companion safety & evidence": {
+  "stream": "maya",
+  "last_seen": "2026-11-04",
+  "seen_dates": [
+   "2026-11-04"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Нет свежих новостей в этой порции, но это критичная область для отслеживания. Ищите published studies о efficacy и safety."
   ]
  }
 }
