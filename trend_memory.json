@@ -775,7 +775,7 @@
   "seen_dates": [
    "2026-10-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -789,7 +789,7 @@
   "seen_dates": [
    "2026-10-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -803,7 +803,7 @@
   "seen_dates": [
    "2026-10-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -817,7 +817,7 @@
   "seen_dates": [
    "2026-10-06"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1887,6 +1887,62 @@
   ],
   "notes": [
    "Tiered models, MoE routing — relевантны для масштабирования на tight budget."
+  ]
+ },
+ "MCP standardization and reliability": {
+  "stream": "aidan",
+  "last_seen": "2026-11-06",
+  "seen_dates": [
+   "2026-11-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MCPHallu exposes failure modes in MCP agents; critical for Revit-AI before commercialization"
+  ]
+ },
+ "Agent safety and user trust verification": {
+  "stream": "maya",
+  "last_seen": "2026-11-06",
+  "seen_dates": [
+   "2026-11-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "TRAP, SAVeR², and PII-redaction are table-stakes for mental-health-adjacent product; regulatory and ethical obligation"
+  ]
+ },
+ "Skillware and capability registries": {
+  "stream": "aidan",
+  "last_seen": "2026-11-06",
+  "seen_dates": [
+   "2026-11-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Moving from prompt-based to registry-based agent tools reduces cost and error; applicable to BIM orchestration"
+  ]
+ },
+ "Reasoning transparency in AI systems": {
+  "stream": "maya",
+  "last_seen": "2026-11-06",
+  "seen_dates": [
+   "2026-11-06"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Alignment between AI reasoning and human teaching methods; relevant for MBSR-based companion validation"
   ]
  }
 }
