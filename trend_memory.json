@@ -831,7 +831,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -845,7 +845,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -859,7 +859,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -873,7 +873,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -887,7 +887,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -901,7 +901,7 @@
   "seen_dates": [
    "2026-10-07"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1943,6 +1943,34 @@
   ],
   "notes": [
    "Alignment between AI reasoning and human teaching methods; relevant for MBSR-based companion validation"
+  ]
+ },
+ "MCP in AEC tools": {
+  "stream": "aidan",
+  "last_seen": "2026-11-07",
+  "seen_dates": [
+   "2026-11-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Chaos V-Ray внедрила MCP; подтверждает выбор архитектуры для Revit AI, требует конкурентного анализа"
+  ]
+ },
+ "Teacher wellbeing AI": {
+  "stream": "maya",
+  "last_seen": "2026-11-07",
+  "seen_dates": [
+   "2026-11-07"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Массовый спрос на эмоциональную поддержку педагогов; возможный B2B сегмент для mindful-companion"
   ]
  }
 }
