@@ -1,60 +1,4 @@
 {
- "Agent-native BIM architecture": {
-  "stream": "aidan",
-  "last_seen": "2026-09-09",
-  "seen_dates": [
-   "2026-09-09"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Motif challenges Revit model; AIDAN's orchestration layer must compete or differentiate"
-  ]
- },
- "AI safety for vulnerable users (minors, mental health)": {
-  "stream": "maya",
-  "last_seen": "2026-09-09",
-  "seen_dates": [
-   "2026-09-09"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "КРИТИЧНО"
-  ],
-  "notes": [
-   "$5M OpenAI grant for teen development + Hugging Face nuanced safety framework; direct funding + research validation opportunity"
-  ]
- },
- "Nuanced content moderation (context-aware not categorical)": {
-  "stream": "maya",
-  "last_seen": "2026-09-09",
-  "seen_dates": [
-   "2026-09-09"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Shift from blanket refusals to graduated responses; critical for mindfulness companion working with anxiety/stress"
-  ]
- },
- "Model cost reduction": {
-  "stream": "aidan",
-  "last_seen": "2026-09-09",
-  "seen_dates": [
-   "2026-09-09"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "OpenAI pricing trends favour AIDAN's lean infra strategy; monitor for Chinese open-source alternatives (DeepSeek, Qwen)"
-  ]
- },
  "AI companion memory & personalization": {
   "stream": "maya",
   "last_seen": "2026-09-17",
@@ -929,7 +873,7 @@
   "seen_dates": [
    "2026-10-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -943,7 +887,7 @@
   "seen_dates": [
    "2026-10-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -957,7 +901,7 @@
   "seen_dates": [
    "2026-10-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -971,7 +915,7 @@
   "seen_dates": [
    "2026-10-09"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "НИЗКИЙ"
   ],
@@ -1943,6 +1887,62 @@
   ],
   "notes": [
    "Массовый спрос на эмоциональную поддержку педагогов; возможный B2B сегмент для mindful-companion"
+  ]
+ },
+ "MCP architecture & patterns": {
+  "stream": "aidan",
+  "last_seen": "2026-11-09",
+  "seen_dates": [
+   "2026-11-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Five production MCP patterns catalogued; directly applicable to Revit AI + orchestration layer design."
+  ]
+ },
+ "Agentic code security & remediation": {
+  "stream": "aidan",
+  "last_seen": "2026-11-09",
+  "seen_dates": [
+   "2026-11-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "AI agents now actively involved in GitHub security patches. Critical for Revit AI safety policy."
+  ]
+ },
+ "Agent oversight & pacing": {
+  "stream": "aidan",
+  "last_seen": "2026-11-09",
+  "seen_dates": [
+   "2026-11-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Deliberate pacing mechanisms preserve human review; useful for enterprise BIM adoption trust."
+  ]
+ },
+ "Multi-agent orchestration patterns": {
+  "stream": "aidan",
+  "last_seen": "2026-11-09",
+  "seen_dates": [
+   "2026-11-09"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Skill-based router + verdict-driven repair relevant to future AIDAN orchestration layer."
   ]
  }
 }
