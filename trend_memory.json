@@ -929,7 +929,7 @@
   "seen_dates": [
    "2026-10-10"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -943,7 +943,7 @@
   "seen_dates": [
    "2026-10-10"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -957,7 +957,7 @@
   "seen_dates": [
    "2026-10-10"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1943,6 +1943,76 @@
   ],
   "notes": [
    "Skill-based router + verdict-driven repair relevant to future AIDAN orchestration layer."
+  ]
+ },
+ "AI в BIM-координации": {
+  "stream": "aidan",
+  "last_seen": "2026-11-10",
+  "seen_dates": [
+   "2026-11-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Trimble встраивает AI-агентов в Connect; конкуренция за workflow-автоматизацию обостряется"
+  ]
+ },
+ "Self-hosted LLM (DeepSeek, Qwen)": {
+  "stream": "aidan",
+  "last_seen": "2026-11-10",
+  "seen_dates": [
+   "2026-11-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "GPU-серверы и локальные модели становятся конкурентоспособнее; мониторить TCO vs. облако"
+  ]
+ },
+ "Безопасность AI в mental-health": {
+  "stream": "maya",
+  "last_seen": "2026-11-10",
+  "seen_dates": [
+   "2026-11-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "OpenAI Control Room показывает, что safety-мониторинг — это инфра-уровень; MAYA должна иметь свой"
+  ]
+ },
+ "Эмоциональный контекст и персонализация": {
+  "stream": "maya",
+  "last_seen": "2026-11-10",
+  "seen_dates": [
+   "2026-11-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Локализованные синтетические датасеты (Nemotron-Japan) показывают путь к культурно-чувствительной адаптации"
+  ]
+ },
+ "Деликатные психологические сценарии": {
+  "stream": "maya",
+  "last_seen": "2026-11-10",
+  "seen_dates": [
+   "2026-11-10"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Статья о горе выявила, что терапевтический язык может навредить; MAYA нужны safety-guidelines для grief, loss, depression"
   ]
  }
 }
