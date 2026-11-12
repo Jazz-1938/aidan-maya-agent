@@ -2014,5 +2014,61 @@
   "notes": [
    "Статья о горе выявила, что терапевтический язык может навредить; MAYA нужны safety-guidelines для grief, loss, depression"
   ]
+ },
+ "AI-orchestration и документо-ориентированные платформы": {
+  "stream": "aidan",
+  "last_seen": "2026-11-12",
+  "seen_dates": [
+   "2026-11-12"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Archiboost $6.2M говорит о конкурентной гонке; AIDAN должен ускорить интеграцию и автоматизацию workflow"
+  ]
+ },
+ "Revit AI и pyRevit/MCP": {
+  "stream": "aidan",
+  "last_seen": "2026-11-12",
+  "seen_dates": [
+   "2026-11-12"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "US-конкурент монетизирует; AIDAN Revit AI — критический фронт для 2026. Codex-случай показывает, что AI ускоряет разработку на недели."
+  ]
+ },
+ "User safety в AI companions": {
+  "stream": "maya",
+  "last_seen": "2026-11-12",
+  "seen_dates": [
+   "2026-11-12"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "OpenAI $2M на safety research; это становится regulatory + моральным требованием для любой mindfulness-платформы."
+  ]
+ },
+ "Персонализация и долгосрочная память AI": {
+  "stream": "maya",
+  "last_seen": "2026-11-12",
+  "seen_dates": [
+   "2026-11-12"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Микрокультура-исследование подтверждает retention-механику через персональный контекст."
+  ]
  }
 }
