@@ -999,7 +999,7 @@
   "seen_dates": [
    "2026-10-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1013,7 +1013,7 @@
   "seen_dates": [
    "2026-10-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1027,7 +1027,7 @@
   "seen_dates": [
    "2026-10-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1041,7 +1041,7 @@
   "seen_dates": [
    "2026-10-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1055,7 +1055,7 @@
   "seen_dates": [
    "2026-10-13"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2069,6 +2069,62 @@
   ],
   "notes": [
    "Микрокультура-исследование подтверждает retention-механику через персональный контекст."
+  ]
+ },
+ "open-source smaller models for BIM": {
+  "stream": "aidan",
+  "last_seen": "2026-11-13",
+  "seen_dates": [
+   "2026-11-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Granite 4.1 и LLMON — способ удешевить self-hosted BIM assistant; Gemini Hydrogen — давление на стоимость API"
+  ]
+ },
+ "scan-to-BIM + NLP": {
+  "stream": "aidan",
+  "last_seen": "2026-11-13",
+  "seen_dates": [
+   "2026-11-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Qentin показывает рыночный спрос; это на дорожной карте AIDAN"
+  ]
+ },
+ "small-practice BIM tools": {
+  "stream": "aidan",
+  "last_seen": "2026-11-13",
+  "seen_dates": [
+   "2026-11-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Archeform в SketchUp захватывает нижний сегмент; AIDAN может конкурировать по цене и простоте"
+  ]
+ },
+ "AI agents for product workflows": {
+  "stream": "maya",
+  "last_seen": "2026-11-13",
+  "seen_dates": [
+   "2026-11-13"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Amplitude Wave показывает паттерн; далеко в roadmap для MAYA, но отметить"
   ]
  }
 }
