@@ -1069,7 +1069,7 @@
   "seen_dates": [
    "2026-10-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1083,7 +1083,7 @@
   "seen_dates": [
    "2026-10-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1097,7 +1097,7 @@
   "seen_dates": [
    "2026-10-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -1111,7 +1111,7 @@
   "seen_dates": [
    "2026-10-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1125,7 +1125,7 @@
   "seen_dates": [
    "2026-10-14"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "КРИТИЧНО"
   ],
@@ -2125,6 +2125,62 @@
   ],
   "notes": [
    "Amplitude Wave показывает паттерн; далеко в roadmap для MAYA, но отметить"
+  ]
+ },
+ "Agent reliability & runtime control": {
+  "stream": "aidan",
+  "last_seen": "2026-11-14",
+  "seen_dates": [
+   "2026-11-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "EvoX + VbD показывают, что отделение execution policy от semantic policy критично. Для Revit AI и orchestration это блокер."
+  ]
+ },
+ "Long-term memory & user continuity": {
+  "stream": "maya",
+  "last_seen": "2026-11-14",
+  "seen_dates": [
+   "2026-11-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "MIGRO и incentive contracts указывают на то, что долгоживущие agents нуждаются в явных механизмах портативной памяти и boundary contracts."
+  ]
+ },
+ "Agent self-verification without external oracle": {
+  "stream": "aidan",
+  "last_seen": "2026-11-14",
+  "seen_dates": [
+   "2026-11-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "VbD и Verify by Doing показывают, что агенты могут валидировать работу сами. Важно для offline deployment и cost reduction."
+  ]
+ },
+ "Privacy & safety in integrated agents": {
+  "stream": "maya",
+  "last_seen": "2026-11-14",
+  "seen_dates": [
+   "2026-11-14"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "GuardianAgentFlow + guardscope указывают на необходимость явных фильтров и измерения реального покрытия safety control."
   ]
  }
 }
