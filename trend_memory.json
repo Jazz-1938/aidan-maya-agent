@@ -1,74 +1,4 @@
 {
- "AI companion memory & personalization": {
-  "stream": "maya",
-  "last_seen": "2026-09-17",
-  "seen_dates": [
-   "2026-09-17"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Geometric memory and heterogeneous preferences for mindfulness adaptation"
-  ]
- },
- "Emotion recognition & cost efficiency": {
-  "stream": "maya",
-  "last_seen": "2026-09-17",
-  "seen_dates": [
-   "2026-09-17"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Hybrid confidence-gated LLM calling for mental-health-adjacent apps"
-  ]
- },
- "Safety evidence acquisition in LLMs": {
-  "stream": "maya",
-  "last_seen": "2026-09-17",
-  "seen_dates": [
-   "2026-09-17"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "Critical for mindfulness companion to query context before risky advice"
-  ]
- },
- "Agentic AI orchestration & workflows": {
-  "stream": "both",
-  "last_seen": "2026-09-17",
-  "seen_dates": [
-   "2026-09-17"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Multi-step agent reasoning, tool use, verification — applicable to both BIM automation and AI companion workflows"
-  ]
- },
- "RAG cost-quality tradeoffs": {
-  "stream": "maya",
-  "last_seen": "2026-09-17",
-  "seen_dates": [
-   "2026-09-17"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "Relevant if MAYA scales to knowledge-grounded mindfulness training"
-  ]
- },
  "LLM inference benchmarking": {
   "stream": "aidan",
   "last_seen": "2026-09-19",
@@ -1293,7 +1223,7 @@
   "seen_dates": [
    "2026-10-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1307,7 +1237,7 @@
   "seen_dates": [
    "2026-10-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1321,7 +1251,7 @@
   "seen_dates": [
    "2026-10-17"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -2181,6 +2111,62 @@
   ],
   "notes": [
    "GuardianAgentFlow + guardscope указывают на необходимость явных фильтров и измерения реального покрытия safety control."
+  ]
+ },
+ "NVIDIA inference optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-11-17",
+  "seen_dates": [
+   "2026-11-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Vera Rubin 2x faster training, agentic workloads; cost-critical for self-hosted models"
+  ]
+ },
+ "Domain-specific LLM post-training": {
+  "stream": "aidan",
+  "last_seen": "2026-11-17",
+  "seen_dates": [
+   "2026-11-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Nemotron post-training unlocks cheap BIM-specialized models without full retraining"
+  ]
+ },
+ "AI-assisted scientist workflows": {
+  "stream": "aidan",
+  "last_seen": "2026-11-17",
+  "seen_dates": [
+   "2026-11-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "ChatGPT research data shows interaction patterns; apply to BIM assistant UX"
+  ]
+ },
+ "Complex emotion in companion design": {
+  "stream": "maya",
+  "last_seen": "2026-11-17",
+  "seen_dates": [
+   "2026-11-17"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Grief+gratitude research foundation for non-toxic mindfulness companion responses to loss"
   ]
  }
 }
