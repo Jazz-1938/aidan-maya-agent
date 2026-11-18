@@ -2168,5 +2168,75 @@
   "notes": [
    "Grief+gratitude research foundation for non-toxic mindfulness companion responses to loss"
   ]
+ },
+ "Personalized Safety for Health AI": {
+  "stream": "maya",
+  "last_seen": "2026-11-18",
+  "seen_dates": [
+   "2026-11-18"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "MedGuardBench shows guardrails must be user-conditioned; non-negotiable for mental-health companion"
+  ]
+ },
+ "Long-Term Memory for Assistants": {
+  "stream": "maya",
+  "last_seen": "2026-11-18",
+  "seen_dates": [
+   "2026-11-18"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "KV-LTM solves persistent context loss in multi-session companions; cheap, testable"
+  ]
+ },
+ "Memory Evolution & Personalization": {
+  "stream": "maya",
+  "last_seen": "2026-11-18",
+  "seen_dates": [
+   "2026-11-18"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "EvoDisco enables adaptive memory strategy; strategic for v2+"
+  ]
+ },
+ "Agent Memory Consistency": {
+  "stream": "maya",
+  "last_seen": "2026-11-18",
+  "seen_dates": [
+   "2026-11-18"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Multi-agent inconsistency patterns emerging; relevant if multi-specialist architecture planned"
+  ]
+ },
+ "MCP Governance & Reversibility": {
+  "stream": "aidan",
+  "last_seen": "2026-11-18",
+  "seen_dates": [
+   "2026-11-18"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Reversibility Classes standardizing tool safety across MCP ecosystem; track for future integrations"
+  ]
  }
 }
