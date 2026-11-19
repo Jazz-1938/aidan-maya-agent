@@ -1,46 +1,4 @@
 {
- "LLM inference benchmarking": {
-  "stream": "aidan",
-  "last_seen": "2026-09-19",
-  "seen_dates": [
-   "2026-09-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "ВЫСОКИЙ"
-  ],
-  "notes": [
-   "AIPerf for cost-per-inference comparison; directly impacts model selection for Revit AI and hybrid RAG"
-  ]
- },
- "Mindfulness and body acceptance": {
-  "stream": "maya",
-  "last_seen": "2026-09-19",
-  "seen_dates": [
-   "2026-09-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "СРЕДНИЙ"
-  ],
-  "notes": [
-   "User pain point (aging, grief) aligned with MBSR; safety-gated opportunity for companion content"
-  ]
- },
- "AI safety youth guidelines": {
-  "stream": "maya",
-  "last_seen": "2026-09-19",
-  "seen_dates": [
-   "2026-09-19"
-  ],
-  "count_30d": 0,
-  "priority_history": [
-   "НИЗКИЙ"
-  ],
-  "notes": [
-   "Relevant only if expanding to <18 demographic; monitor for evolving standards"
-  ]
- },
  "LLM reasoning and verification": {
   "stream": "both",
   "last_seen": "2026-09-21",
