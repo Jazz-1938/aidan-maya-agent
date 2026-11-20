@@ -1223,7 +1223,7 @@
   "seen_dates": [
    "2026-10-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1237,7 +1237,7 @@
   "seen_dates": [
    "2026-10-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1251,7 +1251,7 @@
   "seen_dates": [
    "2026-10-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1265,7 +1265,7 @@
   "seen_dates": [
    "2026-10-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1279,7 +1279,7 @@
   "seen_dates": [
    "2026-10-20"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -2195,6 +2195,48 @@
   ],
   "notes": [
    "Reversibility Classes standardizing tool safety across MCP ecosystem; track for future integrations"
+  ]
+ },
+ "Agent introspection and deception detection": {
+  "stream": "maya",
+  "last_seen": "2026-11-20",
+  "seen_dates": [
+   "2026-11-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Safety-critical for mental health AI; research available, needs adaptation to companion context"
+  ]
+ },
+ "Personality profiling from text": {
+  "stream": "maya",
+  "last_seen": "2026-11-20",
+  "seen_dates": [
+   "2026-11-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Useful for personalization if MAYA expands to long-form narratives; not urgent now"
+  ]
+ },
+ "Generic LLM-agent frameworks": {
+  "stream": "aidan",
+  "last_seen": "2026-11-20",
+  "seen_dates": [
+   "2026-11-20"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "НИЗКИЙ"
+  ],
+  "notes": [
+   "Interesting academically; no direct BIM/IFC application in this batch. Watch for MCP, Revit-API, IFC-aware papers separately"
   ]
  }
 }
