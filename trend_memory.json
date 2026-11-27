@@ -1181,7 +1181,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1195,7 +1195,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1209,7 +1209,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1223,7 +1223,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "ВЫСОКИЙ"
   ],
@@ -1237,7 +1237,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -1251,7 +1251,7 @@
   "seen_dates": [
    "2026-10-27"
   ],
-  "count_30d": 1,
+  "count_30d": 0,
   "priority_history": [
    "СРЕДНИЙ"
   ],
@@ -2027,6 +2027,48 @@
   ],
   "notes": [
    "Interesting academically; no direct BIM/IFC application in this batch. Watch for MCP, Revit-API, IFC-aware papers separately"
+  ]
+ },
+ "agentic_routing_cost_optimization": {
+  "stream": "aidan",
+  "last_seen": "2026-11-27",
+  "seen_dates": [
+   "2026-11-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "ВЫСОКИЙ"
+  ],
+  "notes": [
+   "Partial Routing, confidence gating — прямое применение к оркестрации и снижению API-расходов"
+  ]
+ },
+ "mental_health_safety_taxonomy": {
+  "stream": "maya",
+  "last_seen": "2026-11-27",
+  "seen_dates": [
+   "2026-11-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "КРИТИЧНО"
+  ],
+  "notes": [
+   "Structured harm assessment (What/Who/When) — MUST-HAVE для безопасной коммерциализации"
+  ]
+ },
+ "code_review_robustness": {
+  "stream": "aidan",
+  "last_seen": "2026-11-27",
+  "seen_dates": [
+   "2026-11-27"
+  ],
+  "count_30d": 1,
+  "priority_history": [
+   "СРЕДНИЙ"
+  ],
+  "notes": [
+   "Даже frontier models пропускают 50% подлых багов — нужна комбо формальной валидации для pyRevit"
   ]
  }
 }
